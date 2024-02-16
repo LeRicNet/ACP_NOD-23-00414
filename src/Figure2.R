@@ -4,7 +4,6 @@ library(tidyverse)
 library(reshape2)
 
 spatial.obj <- readRDS('./data/seurat_objects/ACP_visium.rds')
-spatial.obj$Br
 
 # Figure 2A
 SpatialFeaturePlot(
