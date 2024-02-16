@@ -4,10 +4,11 @@
 
 This repository contains computational analyses and models on Adamantinomatous Craniopharyngioma (ACP), a serious CNS tumor known for significantly affecting patient's quality of life. Current treatment only extends to surgery and radiation. Our research centers on investigating the role of senescence and the Senescence-Associated Secretory Phenotype (SASP) in ACP primary tumor tissue. For additional information, please see:
 
-<div style="text-align: 'justify'; font-family: 'Times New Roman'; padding-left: 8px; padding-right: 8px; font-size: 16px">Prince EW, Apps JR, Jeang J, Chee K, Medlin S, Jackson EM, Dudley R, Limbrick D, Naftel R, Johnston J, Feldstein N, Prolo LM, Ginn K, Niazi T, Smith A, Kilburn L, Chern J, Leonard J, Lam S, Hersh DS, Gonzalez-Meljem JM, Amani V, Donson AM, Mitra SS, Bandohpadhayay P, Martinez-Barbera JP, Hankinson TC. <span style="font-weight: bold">Unraveling the Complexity of the Senescence-Associated Secretory Phenotype in Adamantinomatous Craniopharyngioma Using Multi-Modal Machine Learning Analysis.</span> Neuro Oncol. 2024 Feb 9:noae015. doi: 10.1093/neuonc/noae015. Epub ahead of print. <a href='https://pubmed.ncbi.nlm.nih.gov/38334125/'>PMID: 38334125</a>.</div>
+> Prince EW, Apps JR, Jeang J, Chee K, Medlin S, Jackson EM, Dudley R, Limbrick D, Naftel R, Johnston J, Feldstein N, Prolo LM, Ginn K, Niazi T, Smith A, Kilburn L, Chern J, Leonard J, Lam S, Hersh DS, Gonzalez-Meljem JM, Amani V, Donson AM, Mitra SS, Bandohpadhayay P, Martinez-Barbera JP, Hankinson TC. **Unraveling the Complexity of the Senescence-Associated Secretory Phenotype in Adamantinomatous Craniopharyngioma Using Multi-Modal Machine Learning Analysis.** Neuro Oncol. 2024 Feb 9:noae015. doi: 10.1093/neuonc/noae015. Epub ahead of print. <a href='https://pubmed.ncbi.nlm.nih.gov/38334125/'>PMID: 38334125</a>.
 
 ## Resources
 
+This repository is divided into two components, Data and Code. The data in this repository includes the Seurat objects for the single-nucleus, -cell, and spatial gene expression data sets. The code in this repository is organized by Figure and Figure Panel in the manuscript text.
 
 
 ### Data
