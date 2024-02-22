@@ -16,7 +16,7 @@ This repository is divided into two components, Data and Code. The data in this 
 
 This RDS file contains a [Seurat](https://satijalab.org/seurat/) object that stores single-cell RNA-seq data from the ACP project. The data has been preprocessed, normalized, and integrated using the [Seurat pipeline](https://satijalab.org/seurat/archive/v3.2/integration). The object has the following characteristics:
 
--   It has 48,814 features (genes) across 18900 samples (10,322 cells & 8,578 nuclei) within three assays: integrated, RNA, and SCT.
+-   It has 48,814 features (genes) across 18,900 samples (10,322 cells & 8,578 nuclei) within three assays: integrated, RNA, and SCT.
 -   The active assay is integrated (cells and nuclei), which contains the data after integration and dimensionality reduction. It has 3,000 features, of which 2,195 are variable features that capture the heterogeneity of the data. Data has been integrated according to the Seurat protocol.
 -   The integrated assay has two layers: data and scale.data. The data layer contains the log-normalized expression values and the scale.data layer includes the scaled and centered expression values.
 -   The other two assays are RNA and SCT, which contain the raw and corrected expression values. They have the same number of features and samples as the integrated assay but different layers.
