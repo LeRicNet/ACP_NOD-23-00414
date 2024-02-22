@@ -1,0 +1,951 @@
+Entrez ID	Gene symbol	Gene name	Cancer Cell	Type of senescence	Senescence Effect	Reference
+22848	AAK1	AP2 associated kinase 1	No	Unclear	Induces	26583757
+5243	ABCB1	ATP binding cassette subfamily B member 1	Yes	Stress-induced	Induces	10825123
+368	ABCC6	ATP binding cassette subfamily C member 6	Yes	Unclear	Inhibits	28536638
+51225	ABI3	ABI family member 3	Yes	Oncogene-induced	Induces	21223585
+25890	ABI3BP	ABI family member 3 binding protein	Yes	Unclear	Induces	18559958
+340485	ACER2	alkaline ceramidase 2	Yes	Replicative	Inhibits	29229990
+340485	ACER2	alkaline ceramidase 2	Yes	Stress-induced	Inhibits	29229990
+2532	ACKR1	atypical chemokine receptor 1 (Duffy blood group)	No	Stress-induced	Induces	17955335
+47	ACLY	ATP citrate lyase	No	Unclear	Inhibits	25367309
+203054	ADCK5	aarF domain containing kinase 5	No	Unclear	Induces	26583757
+27161	AGO2	argonaute RISC catalytic component 2	No	Oncogene-induced	Inhibits	25175024
+10551	AGR2	anterior gradient 2, protein disulphide isomerase family member	Yes	Oncogene-induced	Inhibits	22467239
+183	AGT	angiotensinogen	No	Stress-induced	Induces	16908765
+196	AHR	aryl hydrocarbon receptor	No	Stress-induced	Induces	15111621
+8852	AKAP4	A-kinase anchoring protein 4	Yes	Unclear	Inhibits	26590805
+231	AKR1B1	aldo-keto reductase family 1 member B	Yes	Stress-induced	Inhibits	21182935
+207	AKT1	AKT serine/threonine kinase 1	No	Oncogene-induced	Induces	17045205
+84335	AKT1S1	AKT1 substrate 1	Yes	Oncogene-induced	Inhibits	24704832
+10000	AKT3	AKT serine/threonine kinase 3	Yes	Stress-induced	Inhibits	26972278
+64400	AKTIP	AKT interacting protein	No	Replicative	Inhibits	27512140
+217	ALDH2	aldehyde dehydrogenase 2 family member	No	Stress-induced	Inhibits	30538807
+226	ALDOA	aldolase, fructose-bisphosphate A	Yes	Oncogene-induced	Inhibits	28806777
+221120	ALKBH3	alkB homolog 3, alpha-ketoglutarate dependent dioxygenase	Yes	Unclear	Inhibits	21285982
+247	ALOX15B	arachidonate 15-lipoxygenase type B	No	Unclear	Induces	17164141
+64682	ANAPC1	anaphase promoting complex subunit 1	No	Unclear	Inhibits	25255445
+54443	ANLN	anillin actin binding protein	Yes	Unclear	Inhibits	27863473
+308	ANXA5	annexin A5	No	Replicative	Inhibits	22728018
+308	ANXA5	annexin A5	No	Stress-induced	Inhibits	22728018
+328	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1	No	Replicative	Inhibits	29750271
+367	AR	androgen receptor	No	Unclear	Induces	24244503
+375	ARF1	ADP ribosylation factor 1	No	Oncogene-induced	Induces	29420297
+384	ARG2	arginase 2	No	Unclear	Induces	23832324
+384	ARG2	arginase 2	No	Unclear	Induces	22928666
+8289	ARID1A	AT-rich interaction domain 1A	No	Oncogene-induced	Induces	28942143
+57492	ARID1B	AT-rich interaction domain 1B	No	Oncogene-induced	Induces	27737960
+1820	ARID3A	AT-rich interaction domain 3A	No	Oncogene-induced	Inhibits	11812999
+51742	ARID4B	AT-rich interaction domain 4B	Yes	Oncogene-induced	Induces	16479010
+10095	ARPC1B	actin related protein 2/3 complex subunit 1B	Yes	Unclear	Induces	21628992
+408	ARRB1	arrestin beta 1	Yes	Unclear	Induces	31204931
+427	ASAH1	N-acylsphingosine amidohydrolase 1	Yes	Unclear	Inhibits	28785021
+25842	ASF1A	anti-silencing function 1A histone chaperone	No	Replicative	Induces	15621527
+25842	ASF1A	anti-silencing function 1A histone chaperone	No	Oncogene-induced	Induces	15621527
+444	ASPH	aspartate beta-hydroxylase	Yes	Unclear	Inhibits	26683595
+55252	ASXL2	ASXL transcriptional regulator 2	No	Unclear	Induces	26416890
+467	ATF3	activating transcription factor 3	Yes	Stress-induced	Inhibits	25046976
+22926	ATF6	activating transcription factor 6	No	Replicative	Induces	28803844
+22926	ATF6	activating transcription factor 6	No	Stress-induced	Induces	28803844
+22926	ATF6	activating transcription factor 6	No	Oncogene-induced	Induces	28803844
+22926	ATF6	activating transcription factor 6	No	Replicative	Induces	30260700
+22926	ATF6	activating transcription factor 6	No	Stress-induced	Induces	30260700
+22926	ATF6	activating transcription factor 6	No	Oncogene-induced	Induces	30260700
+55729	ATF7IP	activating transcription factor 7 interacting protein	No	Stress-induced	Inhibits	23935871
+83734	ATG10	autophagy related 10	Yes	Unclear	Induces	23451179
+9140	ATG12	autophagy related 12	No	Unclear	Inhibits	21858089
+55054	ATG16L1	autophagy related 16 like 1	Yes	Unclear	Unclear	22684298
+84971	ATG4D	autophagy related 4D cysteine peptidase	No	Unclear	Inhibits	30352807
+9474	ATG5	autophagy related 5	No	Oncogene-induced	Inhibits	19279323
+10533	ATG7	autophagy related 7	No	Oncogene-induced	Inhibits	19279323
+472	ATM	ATM serine/threonine kinase	No	Replicative	Inhibits	9312059
+23545	ATP6V0A2	ATPase H+ transporting V0 subunit a2	No	Unclear	Inhibits	26611489
+527	ATP6V0C	ATPase H+ transporting V0 subunit c	No	Unclear	Inhibits	30352807
+545	ATR	ATR serine/threonine kinase	Yes	Oncogene-induced	Induces	18245444
+51374	ATRAID	all-trans retinoic acid induced differentiation factor	Yes	Unclear	Induces	26934949
+546	ATRX	ATRX chromatin remodeler	Yes	Oncogene-induced	Induces	28855512
+546	ATRX	ATRX chromatin remodeler	Yes	Stress-induced	Induces	28855512
+25814	ATXN10	ataxin 10	No	Unclear	Induces	21740549
+6790	AURKA	aurora kinase A	Yes	Unclear	Inhibits	23324396
+9212	AURKB	aurora kinase B	No	Unclear	Inhibits	22024481
+558	AXL	AXL receptor tyrosine kinase	No	Unclear	Induces	26583757
+9531	BAG3	BAG cochaperone 3	Yes	Unclear	Inhibits	25412315
+8314	BAP1	BRCA1 associated protein 1	No	Unclear	Induces	26416890
+11177	BAZ1A	bromodomain adjacent to zinc finger domain 1A	Yes	Unclear	Inhibits	31085244
+64919	BCL11B	BAF chromatin remodeling complex subunit BCL11B	Yes	Unclear	Inhibits	26096706
+596	BCL2	BCL2 apoptosis regulator	No	Oncogene-induced	Induces	12670482
+598	BCL2L1	BCL2 like 1	Yes	Oncogene-induced	Inhibits	28948203
+599	BCL2L2	BCL2 like 2	Yes	Oncogene-induced	Induces	30318121
+602	BCL3	BCL3 transcription coactivator	No	Unclear	Inhibits	25255445
+604	BCL6	BCL6 transcription repressor	No	Replicative	Inhibits	11914273
+9774	BCLAF1	BCL2 associated transcription factor 1	Yes	Stress-induced	Induces	26794446
+8678	BECN1	beclin 1	Yes	Unclear	Inhibits	29991800
+8553	BHLHE40	basic helix-loop-helix family member e40	Yes	Replicative	Induces	18025081
+8553	BHLHE40	basic helix-loop-helix family member e40	Yes	Stress-induced	Induces	18025081
+8553	BHLHE40	basic helix-loop-helix family member e40	Yes	Replicative	Induces	22844531
+8553	BHLHE40	basic helix-loop-helix family member e40	Yes	Stress-induced	Induces	22844531
+274	BIN1	bridging integrator 1	No	Oncogene-induced	Induces	18267069
+332	BIRC5	baculoviral IAP repeat containing 5	Yes	Oncogene-induced	Inhibits	27531889
+640	BLK	BLK proto-oncogene, Src family tyrosine kinase	No	Unclear	Induces	26583757
+644	BLVRA	biliverdin reductase A	No	Stress-induced	Inhibits	21099244
+648	BMI1	BMI1 proto-oncogene, polycomb ring finger	No	Replicative	Inhibits	12482990
+652	BMP4	bone morphogenetic protein 4	Yes	Replicative	Induces	19269967
+652	BMP4	bone morphogenetic protein 4	Yes	Stress-induced	Induces	19269967
+659	BMPR2	bone morphogenetic protein receptor type 2	Yes	Replicative	Induces	27696331
+9790	BMS1	BMS1 ribosome biogenesis factor	Yes	Replicative	Inhibits	25732822
+9790	BMS1	BMS1 ribosome biogenesis factor	Yes	Oncogene-induced	Inhibits	25732822
+665	BNIP3L	BCL2 interacting protein 3 like	No	Oncogene-induced	Induces	18267069
+673	BRAF	B-Raf proto-oncogene, serine/threonine kinase	No	Oncogene-induced	Induces	16079850
+672	BRCA1	BRCA1 DNA repair associated	Yes	Stress-induced	Inhibits	19372557
+23476	BRD4	bromodomain containing 4	Yes	Unclear	Inhibits	29434197
+29117	BRD7	bromodomain containing 7	No	Replicative	Induces	20660729
+83990	BRIP1	BRCA1 interacting helicase 1	No	Oncogene-induced	Inhibits	22137763
+694	BTG1	BTG anti-proliferation factor 1	Yes	Unclear	Induces	27447746
+7832	BTG2	BTG anti-proliferation factor 2	No	Replicative	Induces	20569234
+10950	BTG3	BTG anti-proliferation factor 3	No	Oncogene-induced	Inhibits	22020331
+699	BUB1	BUB1 mitotic checkpoint serine/threonine kinase	No	Oncogene-induced	Inhibits	17488820
+701	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B	Yes	Oncogene-induced	Inhibits	28806777
+811	CALR	calreticulin	No	Unclear	Inhibits	25378661
+826	CAPNS1	calpain small subunit 1	Yes	Oncogene-induced	Induces	20107320
+826	CAPNS1	calpain small subunit 1	Yes	Stress-induced	Induces	20107320
+79800	CARF	calcium responsive transcription factor	No	Replicative	Induces	19001376
+79800	CARF	calcium responsive transcription factor	No	Stress-induced	Induces	19001376
+10498	CARM1	coactivator associated arginine methyltransferase 1	No	Replicative	Inhibits	23837869
+835	CASP2	caspase 2	No	Oncogene-induced	Induces	25114039
+857	CAV1	caveolin 1	No	Unclear	Induces	15263006
+284119	CAVIN1	caveolae associated protein 1	No	Unclear	Induces	21445100
+875	CBS	cystathionine beta-synthase	No	Replicative	Inhibits	23117410
+23468	CBX5	chromobox 5	No	Unclear	Inhibits	26160351
+23492	CBX7	chromobox 7	No	Replicative	Inhibits	14647293
+57332	CBX8	chromobox 8	No	Unclear	Inhibits	17332741
+6347	CCL2	C-C motif chemokine ligand 2	No	Unclear	Induces	26573462
+1490	CCN2	cellular communication network factor 2	Yes	Oncogene-induced	Induces	22684333
+8838	CCN6	cellular communication network factor 6	No	Unclear	Induces	26611489
+890	CCNA2	cyclin A2	Yes	Oncogene-induced	Inhibits	28806777
+891	CCNB1	cyclin B1	Yes	Unclear	Inhibits	30069972
+595	CCND1	cyclin D1	No	Unclear	Induces	7698220
+896	CCND3	cyclin D3	Yes	Unclear	Inhibits	20113529
+940	CD28	CD28 molecule	No	Replicative	Inhibits	24231352
+947	CD34	CD34 molecule	No	Unclear	Induces	25879198
+959	CD40LG	CD40 ligand	Yes	Unclear	Unclear	30078020
+3732	CD82	CD82 molecule	Yes	Unclear	Induces	23873025
+993	CDC25A	cell division cycle 25A	No	Unclear	Inhibits	32264951
+8318	CDC45	cell division cycle 45	Yes	Oncogene-induced	Inhibits	28806777
+990	CDC6	cell division cycle 6	Yes	Stress-induced	Induces	30158672
+8317	CDC7	cell division cycle 7	Yes	Oncogene-induced	Inhibits	28806777
+157313	CDCA2	cell division cycle associated 2	No	Stress-induced	Inhibits	24905922
+55038	CDCA4	cell division cycle associated 4	No	Unclear	Inhibits	32264951
+999	CDH1	cadherin 1	No	Oncogene-induced	Inhibits	19477924
+983	CDK1	cyclin dependent kinase 1	Yes	Unclear	Inhibits	23324396
+5129	CDK18	cyclin dependent kinase 18	No	Unclear	Induces	26583757
+1017	CDK2	cyclin dependent kinase 2	No	Replicative	Inhibits	25149358
+1017	CDK2	cyclin dependent kinase 2	No	Stress-induced	Inhibits	25149358
+1017	CDK2	cyclin dependent kinase 2	No	Oncogene-induced	Inhibits	25149358
+8099	CDK2AP1	cyclin dependent kinase 2 associated protein 1	No	Unclear	Inhibits	25785833
+1019	CDK4	cyclin dependent kinase 4	No	Replicative	Inhibits	12082615
+1020	CDK5	cyclin dependent kinase 5	Yes	Unclear	Induces	15024070
+8851	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1	Yes	Oncogene-induced	Induces	20181942
+1021	CDK6	cyclin dependent kinase 6	No	Replicative	Inhibits	12082615
+1026	CDKN1A	cyclin dependent kinase inhibitor 1A	No	Replicative	Induces	9242615
+1026	CDKN1A	cyclin dependent kinase inhibitor 1A	No	Stress-induced	Induces	9242615
+1026	CDKN1A	cyclin dependent kinase inhibitor 1A	No	Oncogene-induced	Induces	9242615
+1027	CDKN1B	cyclin dependent kinase inhibitor 1B	No	Unclear	Induces	9512419
+1028	CDKN1C	cyclin dependent kinase inhibitor 1C	Yes	Unclear	Induces	22705236
+1029	CDKN2A	cyclin dependent kinase inhibitor 2A	No	Replicative	Induces	9607312
+1029	CDKN2A	cyclin dependent kinase inhibitor 2A	No	Stress-induced	Induces	9607312
+1029	CDKN2A	cyclin dependent kinase inhibitor 2A	No	Oncogene-induced	Induces	9607312
+55602	CDKN2AIP	CDKN2A interacting protein	No	Replicative	Induces	19001376
+55602	CDKN2AIP	CDKN2A interacting protein	No	Stress-induced	Induces	19001376
+1030	CDKN2B	cyclin dependent kinase inhibitor 2B	Yes	Replicative	Induces	10939591
+634	CEACAM1	CEA cell adhesion molecule 1	No	Stress-induced	Induces	23552604
+1051	CEBPB	CCAAT enhancer binding protein beta	Yes	Stress-induced	Induces	25772238
+1054	CEBPG	CCAAT enhancer binding protein gamma	Yes	Oncogene-induced	Inhibits	23775115
+1058	CENPA	centromere protein A	No	Unclear	Inhibits	20160010
+8208	CHAF1B	chromatin assembly factor 1 subunit B	Yes	Oncogene-induced	Inhibits	28806777
+26038	CHD5	chromodomain helicase DNA binding protein 5	No	Replicative	Induces	23168260
+26038	CHD5	chromodomain helicase DNA binding protein 5	No	Oncogene-induced	Induces	23168260
+1111	CHEK1	checkpoint kinase 1	Yes	Stress-induced	Induces	20716119
+11200	CHEK2	checkpoint kinase 2	Yes	Unclear	Induces	16024600
+1147	CHUK	component of inhibitor of nuclear factor kappa B kinase complex	Yes	Stress-induced	Induces	22740410
+57650	CIP2A	cellular inhibitor of PP2A	Yes	Unclear	Inhibits	18559589
+11113	CIT	citron rho-interacting serine/threonine kinase	Yes	Oncogene-induced	Inhibits	28806777
+26586	CKAP2	cytoskeleton associated protein 2	No	Unclear	Inhibits	32264951
+1152	CKB	creatine kinase B	No	Unclear	Induces	26583757
+9635	CLCA2	chloride channel accessory 2	No	Stress-induced	Induces	22431922
+8192	CLPP	caseinolytic mitochondrial matrix peptidase proteolytic subunit	Yes	Stress-induced	Inhibits	30878663
+63967	CLSPN	claspin	Yes	Oncogene-induced	Inhibits	30796221
+1191	CLU	clusterin	Yes	Stress-induced	Inhibits	31376806
+57472	CNOT6	CCR4-NOT transcription complex subunit 6	No	Unclear	Inhibits	26792405
+246175	CNOT6L	CCR4-NOT transcription complex subunit 6 like	Yes	Unclear	Inhibits	21233283
+1329	COX5B	cytochrome c oxidase subunit 5B	Yes	Unclear	Inhibits	26506233
+64506	CPEB1	cytoplasmic polyadenylation element binding protein 1	No	Replicative	Induces	19141477
+126129	CPT1C	carnitine palmitoyltransferase 1C	Yes	Unclear	Inhibits	30070697
+8804	CREG1	cellular repressor of E1A stimulated genes 1	Yes	Oncogene-induced	Induces	21263217
+83716	CRISPLD2	cysteine rich secretory protein LCCL domain containing 2	No	Stress-induced	Inhibits	31219803
+1452	CSNK1A1	casein kinase 1 alpha 1	Yes	Unclear	Inhibits	23324396
+1457	CSNK2A1	casein kinase 2 alpha 1	No	Replicative	Inhibits	16442104
+1491	CTH	cystathionine gamma-lyase	Yes	Replicative	Inhibits	23353821
+1491	CTH	cystathionine gamma-lyase	Yes	Stress-induced	Inhibits	23353821
+8727	CTNNAL1	catenin alpha like 1	Yes	Oncogene-induced	Inhibits	21278790
+1499	CTNNB1	catenin beta 1	No	Unclear	Induces	24130040
+1508	CTSB	cathepsin B	No	Unclear	Inhibits	30352807
+1509	CTSD	cathepsin D	Yes	Unclear	Inhibits	26657266
+8450	CUL4B	cullin 4B	Yes	Replicative	Inhibits	25464270
+8450	CUL4B	cullin 4B	Yes	Stress-induced	Inhibits	25464270
+1523	CUX1	cut like homeobox 1	No	Oncogene-induced	Inhibits	24618719
+2919	CXCL1	C-X-C motif chemokine ligand 1	No	Oncogene-induced	Induces	17060621
+3579	CXCR2	C-X-C motif chemokine receptor 2	No	Replicative	Induces	18555777
+3579	CXCR2	C-X-C motif chemokine receptor 2	No	Oncogene-induced	Induces	18555777
+1727	CYB5R3	cytochrome b5 reductase 3	No	Unclear	Inhibits	24450884
+1536	CYBB	cytochrome b-245 beta chain	No	Unclear	Induces	21841319
+1592	CYP26A1	cytochrome P450 family 26 subfamily A member 1	Yes	Stress-induced	Inhibits	26058854
+1610	DAO	D-amino acid oxidase	Yes	Stress-induced	Induces	27545311
+23564	DDAH2	dimethylarginine dimethylaminohydrolase 2	No	Unclear	Inhibits	24764313
+1642	DDB1	damage specific DNA binding protein 1	Yes	Oncogene-induced	Inhibits	28806777
+1643	DDB2	damage specific DNA binding protein 2	No	Oncogene-induced	Induces	20351176
+54541	DDIT4	DNA damage inducible transcript 4	No	Replicative	Inhibits	22627671
+7913	DEK	DEK proto-oncogene	No	Replicative	Inhibits	16254365
+64798	DEPTOR	DEP domain containing MTOR interacting protein	Yes	Unclear	Inhibits	25568666
+54487	DGCR8	DGCR8 microprocessor complex subunit	No	Unclear	Inhibits	23773483
+1718	DHCR24	24-dehydrocholesterol reductase	No	Oncogene-induced	Induces	15577914
+10202	DHRS2	dehydrogenase/reductase 2	Yes	Unclear	Induces	29632240
+1660	DHX9	DExH-box helicase 9	No	Replicative	Inhibits	24990949
+23405	DICER1	dicer 1, ribonuclease III	No	Stress-induced	Inhibits	26990999
+11083	DIDO1	death inducer-obliterator 1	No	Unclear	Inhibits	26611489
+9077	DIRAS3	DIRAS family GTPase 3	No	Unclear	Inhibits	28316325
+1736	DKC1	dyskerin pseudouridine synthase 1	Yes	Replicative	Inhibits	25732822
+1736	DKC1	dyskerin pseudouridine synthase 1	Yes	Oncogene-induced	Inhibits	25732822
+10395	DLC1	DLC1 Rho GTPase activating protein	Yes	Oncogene-induced	Induces	23853104
+9988	DMTF1	cyclin D binding myb like transcription factor 1	No	Oncogene-induced	Induces	18267069
+1786	DNMT1	DNA methyltransferase 1	No	Unclear	Inhibits	21572997
+1788	DNMT3A	DNA methyltransferase 3 alpha	Yes	Stress-induced	Inhibits	20473858
+1789	DNMT3B	DNA methyltransferase 3 beta	No	Unclear	Inhibits	21572997
+84444	DOT1L	DOT1 like histone lysine methyltransferase	Yes	Unclear	Inhibits	22190683
+1803	DPP4	dipeptidyl peptidase 4	No	Oncogene-induced	Induces	29481642
+84661	DPY30	dpy-30 histone methyltransferase complex regulatory subunit	No	Unclear	Inhibits	23872946
+51514	DTL	denticleless E3 ubiquitin protein ligase homolog	Yes	Unclear	Inhibits	29606879
+1843	DUSP1	dual specificity phosphatase 1	Yes	Oncogene-induced	Induces	30536303
+80824	DUSP16	dual specificity phosphatase 16	Yes	Unclear	Inhibits	26381291
+63904	DUSP21	dual specificity phosphatase 21	Yes	Unclear	Inhibits	23929653
+1845	DUSP3	dual specificity phosphatase 3	Yes	Unclear	Inhibits	16604064
+1848	DUSP6	dual specificity phosphatase 6	Yes	Oncogene-induced	Inhibits	25499223
+1859	DYRK1A	dual specificity tyrosine phosphorylation regulated kinase 1A	Yes	Oncogene-induced	Induces	21498570
+1869	E2F1	E2F transcription factor 1	No	Unclear	Induces	10594030
+1871	E2F3	E2F transcription factor 3	Yes	Unclear	Inhibits	22354972
+144455	E2F7	E2F transcription factor 7	No	Oncogene-induced	Induces	22802529
+1894	ECT2	epithelial cell transforming 2	Yes	Oncogene-induced	Inhibits	28806777
+9521	EEF1E1	eukaryotic translation elongation factor 1 epsilon 1	No	Unclear	Induces	25465621
+1956	EGFR	epidermal growth factor receptor	Yes	Unclear	Inhibits	25504754
+54583	EGLN1	egl-9 family hypoxia inducible factor 1	Yes	Replicative	Induces	16161047
+1959	EGR2	early growth response 2	No	Unclear	Induces	33547862
+26298	EHF	ETS homologous factor	No	Unclear	Induces	17627613
+10919	EHMT2	euchromatic histone lysine methyltransferase 2	Yes	Unclear	Inhibits	25595900
+493861	EID3	EP300 interacting inhibitor of differentiation 3	Yes	Stress-induced	Induces	30114644
+5610	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2	No	Stress-induced	Induces	29906232
+9451	EIF2AK3	eukaryotic translation initiation factor 2 alpha kinase 3	Yes	Unclear	Inhibits	22548801
+1977	EIF4E	eukaryotic translation initiation factor 4E	Yes	Oncogene-induced	Unclear	21399233
+1978	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	No	Oncogene-induced	Inhibits	19878875
+1982	EIF4G2	eukaryotic translation initiation factor 4 gamma 2	Yes	Unclear	Inhibits	24497838
+1994	ELAVL1	ELAV like RNA binding protein 1	Yes	Replicative	Inhibits	29584879
+6924	ELOA	elongin A	No	Unclear	Inhibits	32264951
+2021	ENDOG	endonuclease G	No	Unclear	Inhibits	20211237
+2022	ENG	endoglin	Yes	Unclear	Induces	27067789
+2023	ENO1	enolase 1	No	Oncogene-induced	Inhibits	18852884
+57089	ENTPD7	ectonucleoside triphosphate diphosphohydrolase 7	No	Oncogene-induced	Induces	27737960
+2033	EP300	E1A binding protein p300	No	Replicative	Induces	30773298
+2033	EP300	E1A binding protein p300	No	Oncogene-induced	Induces	30773298
+2034	EPAS1	endothelial PAS domain protein 1	Yes	Replicative	Inhibits	26057707
+2034	EPAS1	endothelial PAS domain protein 1	Yes	Stress-induced	Inhibits	26057707
+2042	EPHA3	EPH receptor A3	Yes	Unclear	Inhibits	23324396
+2044	EPHA5	EPH receptor A5	Yes	Stress-induced	Inhibits	25623065
+2057	EPOR	erythropoietin receptor	Yes	Stress-induced	Inhibits	25544764
+2064	ERBB2	erb-b2 receptor tyrosine kinase 2	Yes	Oncogene-induced	Induces	15705882
+2067	ERCC1	ERCC excision repair 1, endonuclease non-catalytic subunit	No	Unclear	Inhibits	24964749
+54206	ERRFI1	ERBB receptor feedback inhibitor 1	No	Unclear	Induces	24815188
+30816	ERVW-1	endogenous retrovirus group W member 1, envelope	No	Oncogene-induced	Induces	24186980
+9700	ESPL1	extra spindle pole bodies like 1, separase	Yes	Oncogene-induced	Inhibits	28806777
+2099	ESR1	estrogen receptor 1	No	Oncogene-induced	Inhibits	27259243
+2103	ESRRB	estrogen related receptor beta	Yes	Stress-induced	Induces	25496115
+2113	ETS1	ETS proto-oncogene 1, transcription factor	No	Oncogene-induced	Induces	11234019
+2114	ETS2	ETS proto-oncogene 2, transcription factor	No	Oncogene-induced	Induces	11234019
+2120	ETV6	ETS variant transcription factor 6	No	Unclear	Induces	30088951
+2130	EWSR1	EWS RNA binding protein 1	No	Unclear	Induces	21030557
+2146	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit	Yes	Stress-induced	Inhibits	24588771
+2177	FANCD2	FA complementation group D2	No	Stress-induced	Induces	21995812
+2194	FASN	fatty acid synthase	No	Oncogene-induced	Induces	30962418
+10922	FASTK	Fas activated serine/threonine kinase	No	Unclear	Induces	26583757
+26263	FBXO22	F-box protein 22	Yes	Stress-induced	Induces	26868148
+79791	FBXO31	F-box protein 31	Yes	Unclear	Induces	16357137
+26272	FBXO4	F-box protein 4	Yes	Unclear	Induces	29142209
+26271	FBXO5	F-box protein 5	Yes	Oncogene-induced	Inhibits	17875940
+23291	FBXW11	F-box and WD repeat domain containing 11	Yes	Unclear	Inhibits	31406304
+2224	FDPS	farnesyl diphosphate synthase	Yes	Stress-induced	Inhibits	29030460
+55612	FERMT1	FERM domain containing kindlin 1	No	Unclear	Inhibits	23278235
+10979	FERMT2	FERM domain containing kindlin 2	Yes	Unclear	Inhibits	31308359
+26291	FGF21	fibroblast growth factor 21	No	Replicative	Inhibits	31178962
+26291	FGF21	fibroblast growth factor 21	No	Stress-induced	Inhibits	31178962
+2260	FGFR1	fibroblast growth factor receptor 1	Yes	Stress-induced	Induces	26250908
+2263	FGFR2	fibroblast growth factor receptor 2	No	Oncogene-induced	Unclear	19403560
+2261	FGFR3	fibroblast growth factor receptor 3	Yes	Oncogene-induced	Induces	23902722
+51024	FIS1	fission, mitochondrial 1	Yes	Unclear	Inhibits	17545159
+2321	FLT1	fms related receptor tyrosine kinase 1	No	Unclear	Inhibits	18583712
+100529261	FNTB	CHURC1-FNTB readthrough	Yes	Stress-induced	Inhibits	29030460
+2353	FOS	Fos proto-oncogene, AP-1 transcription factor subunit	No	Unclear	Inhibits	1560044
+3169	FOXA1	forkhead box A1	Yes	Unclear	Induces	27349269
+2297	FOXD1	forkhead box D1	No	Replicative	Unclear	30933975
+2305	FOXM1	forkhead box M1	Yes	Unclear	Inhibits	25071344
+2308	FOXO1	forkhead box O1	No	Unclear	Induces	30088951
+2309	FOXO3	forkhead box O3	No	Unclear	Inhibits	15741276
+4303	FOXO4	forkhead box O4	Yes	Oncogene-induced	Induces	20959475
+27086	FOXP1	forkhead box P1	No	Replicative	Inhibits	28240601
+50943	FOXP3	forkhead box P3	Yes	Oncogene-induced	Induces	27238838
+94234	FOXQ1	forkhead box Q1	No	Unclear	Inhibits	29500491
+6624	FSCN1	fascin actin-bundling protein 1	Yes	Stress-induced	Inhibits	26058854
+2395	FXN	frataxin	Yes	Unclear	Inhibits	24860428
+8087	FXR1	FMR1 autosomal homolog 1	Yes	Replicative	Inhibits	27606879
+2539	G6PD	glucose-6-phosphate dehydrogenase	No	Stress-induced	Inhibits	10980404
+10912	GADD45G	growth arrest and DNA damage inducible gamma	Yes	Replicative	Induces	23897841
+2597	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	Yes	Stress-induced	Inhibits	21749859
+2626	GATA4	GATA binding protein 4	No	Replicative	Induces	26404840
+2626	GATA4	GATA binding protein 4	No	Stress-induced	Induces	26404840
+9518	GDF15	growth differentiation factor 15	No	Oncogene-induced	Induces	26909594
+9518	GDF15	growth differentiation factor 15	No	Stress-induced	Induces	26909594
+8487	GEMIN2	gem nuclear organelle associated protein 2	Yes	Replicative	Induces	16461895
+79017	GGCT	gamma-glutamylcyclotransferase	Yes	Oncogene-induced	Inhibits	27658708
+2697	GJA1	gap junction protein alpha 1	No	Unclear	Induces	30518918
+56287	GKN1	gastrokine 1	Yes	Replicative	Induces	25344918
+2735	GLI1	GLI family zinc finger 1	Yes	Unclear	Inhibits	29930746
+51053	GMNN	geminin DNA replication inhibitor	No	Replicative	Inhibits	23142824
+51053	GMNN	geminin DNA replication inhibitor	No	Stress-induced	Inhibits	23142824
+8833	GMPS	guanine monophosphate synthase	Yes	Unclear	Inhibits	27939741
+2791	GNG11	G protein subunit gamma 11	No	Stress-induced	Induces	17092487
+27232	GNMT	glycine N-methyltransferase	Yes	Unclear	Induces	22160218
+2719	GPC3	glypican 3	Yes	Replicative	Inhibits	21847365
+2898	GRIK2	glutamate ionotropic receptor kainate type subunit 2	Yes	Replicative	Induces	30587499
+2868	GRK4	G protein-coupled receptor kinase 4	No	Unclear	Induces	28912086
+2870	GRK6	G protein-coupled receptor kinase 6	No	Unclear	Induces	26583757
+2896	GRN	granulin precursor	Yes	Unclear	Inhibits	26600492
+2925	GRPR	gastrin releasing peptide receptor	Yes	Unclear	Inhibits	26780458
+2926	GRSF1	G-rich RNA sequence binding factor 1	No	Replicative	Inhibits	30944385
+2926	GRSF1	G-rich RNA sequence binding factor 1	No	Stress-induced	Inhibits	30944385
+2931	GSK3A	glycogen synthase kinase 3 alpha	Yes	Unclear	Inhibits	24396695
+2932	GSK3B	glycogen synthase kinase 3 beta	Yes	Unclear	Inhibits	18782348
+51512	GTSE1	G2 and S-phase expressed 1	Yes	Stress-induced	Inhibits	30961661
+3036	HAS1	hyaluronan synthase 1	No	Stress-induced	Inhibits	31219803
+54930	HAUS4	HAUS augmin like complex subunit 4	No	Unclear	Inhibits	32264951
+26959	HBP1	HMG-box transcription factor 1	No	Oncogene-induced	Induces	16966377
+3065	HDAC1	histone deacetylase 1	Yes	Unclear	Induces	21420382
+3066	HDAC2	histone deacetylase 2	Yes	Unclear	Inhibits	17409421
+8841	HDAC3	histone deacetylase 3	Yes	Unclear	Inhibits	18558095
+9759	HDAC4	histone deacetylase 4	No	Replicative	Inhibits	26414199
+51564	HDAC7	histone deacetylase 7	Yes	Oncogene-induced	Inhibits	21120446
+51564	HDAC7	histone deacetylase 7	Yes	Stress-induced	Inhibits	21120446
+3070	HELLS	helicase, lymphoid specific	No	Replicative	Inhibits	19561196
+220296	HEPACAM	hepatic and glial cell adhesion molecule	Yes	Unclear	Induces	18845560
+3091	HIF1A	hypoxia inducible factor 1 subunit alpha	Yes	Stress-induced	Inhibits	26057707
+28996	HIPK2	homeodomain interacting protein kinase 2	Yes	Oncogene-induced	Induces	25778922
+7290	HIRA	histone cell cycle regulator	No	Oncogene-induced	Induces	15621527
+3096	HIVEP1	HIVEP zinc finger 1	No	Unclear	Inhibits	18852884
+55355	HJURP	Holliday junction recognition protein	No	Unclear	Inhibits	23292286
+3101	HK3	hexokinase 3	No	Unclear	Induces	26583757
+3159	HMGA1	high mobility group AT-hook 1	No	Oncogene-induced	Induces	16901784
+8091	HMGA2	high mobility group AT-hook 2	No	Oncogene-induced	Induces	16901784
+3146	HMGB1	high mobility group box 1	Yes	Unclear	Inhibits	25051367
+3148	HMGB2	high mobility group box 2	No	Oncogene-induced	Inhibits	27799366
+3149	HMGB3	high mobility group box 3	Yes	Unclear	Inhibits	27774979
+3156	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase	Yes	Stress-induced	Inhibits	29030460
+3178	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	Yes	Unclear	Inhibits	31257225
+220988	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3	No	Replicative	Inhibits	24823364
+3182	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	No	Unclear	Inhibits	32264951
+3183	HNRNPC	heterogeneous nuclear ribonucleoprotein C	Yes	Stress-induced	Induces	24379680
+3184	HNRNPD	heterogeneous nuclear ribonucleoprotein D	Yes	Replicative	Inhibits	27596953
+3184	HNRNPD	heterogeneous nuclear ribonucleoprotein D	Yes	Stress-induced	Inhibits	27596953
+84525	HOPX	HOP homeobox	No	Oncogene-induced	Induces	25345926
+3205	HOXA9	homeobox A9	No	Oncogene-induced	Inhibits	23455154
+3265	HRAS	HRas proto-oncogene, GTPase	No	Oncogene-induced	Induces	9054499
+9653	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	Yes	Stress-induced	Inhibits	26250908
+3297	HSF1	heat shock transcription factor 1	No	Stress-induced	Inhibits	22510478
+3320	HSP90AA1	heat shock protein 90 alpha family class A member 1	No	Oncogene-induced	Inhibits	27793846
+3326	HSP90AB1	heat shock protein 90 alpha family class B member 1	No	Oncogene-induced	Inhibits	27793846
+3303	HSPA1A	heat shock protein family A (Hsp70) member 1A	Yes	Unclear	Inhibits	17332370
+3306	HSPA2	heat shock protein family A (Hsp70) member 2	Yes	Unclear	Inhibits	15741319
+3309	HSPA5	heat shock protein family A (Hsp70) member 5	Yes	Stress-induced	Inhibits	24756776
+3313	HSPA9	heat shock protein family A (Hsp70) member 9	Yes	Stress-induced	Induces	17306926
+3315	HSPB1	heat shock protein family B (small) member 1	No	Stress-induced	Inhibits	18089808
+5654	HTRA1	HtrA serine peptidase 1	Yes	Replicative	Induces	23623979
+5654	HTRA1	HtrA serine peptidase 1	Yes	Stress-induced	Induces	23623979
+10525	HYOU1	hypoxia up-regulated 1	No	Stress-induced	Inhibits	23757447
+3397	ID1	inhibitor of DNA binding 1, HLH protein	No	Replicative	Inhibits	12177246
+3428	IFI16	interferon gamma inducible protein 16	Yes	Replicative	Induces	12894224
+3458	IFNG	interferon gamma	No	Unclear	Induces	19071156
+3484	IGFBP1	insulin like growth factor binding protein 1	Yes	Unclear	Induces	22392074
+3486	IGFBP3	insulin like growth factor binding protein 3	No	Stress-induced	Induces	18329388
+3488	IGFBP5	insulin like growth factor binding protein 5	No	Replicative	Induces	17804819
+3490	IGFBP7	insulin like growth factor binding protein 7	No	Oncogene-induced	Induces	18267069
+3490	IGFBP7	insulin like growth factor binding protein 7	No	Oncogene-induced	Induces	22392074
+8517	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma	Yes	Stress-induced	Induces	22740410
+3552	IL1A	interleukin 1 alpha	No	Unclear	Induces	2218499
+3554	IL1R1	interleukin 1 receptor type 1	No	Oncogene-induced	Induces	18267069
+3557	IL1RN	interleukin 1 receptor antagonist	No	Replicative	Unclear	12764021
+11009	IL24	interleukin 24	Yes	Stress-induced	Inhibits	29749438
+3569	IL6	interleukin 6	No	Oncogene-induced	Induces	18555778
+3569	IL6	interleukin 6	No	Stress-induced	Induces	18555778
+3609	ILF3	interleukin enhancer binding factor 3	No	Unclear	Inhibits	23117626
+3611	ILK	integrin linked kinase	Yes	Unclear	Inhibits	26176204
+10989	IMMT	inner membrane mitochondrial protein	No	Unclear	Inhibits	32264951
+3619	INCENP	inner centromere protein	Yes	Oncogene-induced	Inhibits	28806777
+3621	ING1	inhibitor of growth family member 1	No	Unclear	Induces	18691180
+3622	ING2	inhibitor of growth family member 2	No	Replicative	Induces	16024799
+84289	ING5	inhibitor of growth family member 5	Yes	Unclear	Induces	28915612
+8821	INPP4B	inositol polyphosphate-4-phosphatase type II B	No	Unclear	Inhibits	19647222
+51135	IRAK4	interleukin 1 receptor associated kinase 4	Yes	Stress-induced	Inhibits	25231413
+3659	IRF1	interferon regulatory factor 1	No	Oncogene-induced	Induces	18267069
+3661	IRF3	interferon regulatory factor 3	No	Unclear	Induces	16513254
+3663	IRF5	interferon regulatory factor 5	Yes	Unclear	Induces	18505922
+3665	IRF7	interferon regulatory factor 7	Yes	Unclear	Induces	18505922
+3690	ITGB3	integrin subunit beta 3	Yes	Oncogene-induced	Induces	28273461
+3690	ITGB3	integrin subunit beta 3	Yes	Stress-induced	Induces	28273461
+3691	ITGB4	integrin subunit beta 4	No	Unclear	Induces	17964297
+3705	ITPK1	inositol-tetrakisphosphate 1-kinase	No	Unclear	Induces	26583757
+3707	ITPKB	inositol-trisphosphate 3-kinase B	No	Unclear	Induces	26583757
+3708	ITPR1	inositol 1,4,5-trisphosphate receptor type 1	No	Oncogene-induced	Induces	24797322
+3709	ITPR2	inositol 1,4,5-trisphosphate receptor type 2	No	Oncogene-induced	Induces	24797322
+3710	ITPR3	inositol 1,4,5-trisphosphate receptor type 3	No	Oncogene-induced	Induces	24797322
+50618	ITSN2	intersectin 2	No	Stress-induced	Induces	23472054
+3717	JAK2	Janus kinase 2	No	Unclear	Induces	24681574
+51155	JPT1	Jupiter microtubule associated homolog 1	Yes	Unclear	Inhibits	31257225
+3725	JUN	Jun proto-oncogene, AP-1 transcription factor subunit	Yes	Stress-induced	Inhibits	17126817
+3726	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit	Yes	Unclear	Induces	18628455
+10524	KAT5	lysine acetyltransferase 5	No	Oncogene-induced	Induces	23685072
+3736	KCNA1	potassium voltage-gated channel subfamily A member 1	No	Oncogene-induced	Induces	23774215
+3768	KCNJ12	potassium inwardly rectifying channel subfamily J member 12	Yes	Stress-induced	Inhibits	20841375
+23028	KDM1A	lysine demethylase 1A	No	Oncogene-induced	Inhibits	29438700
+84678	KDM2B	lysine demethylase 2B	No	Replicative	Inhibits	21757686
+9682	KDM4A	lysine demethylase 4A	Yes	Oncogene-induced	Unclear	23168260
+23081	KDM4C	lysine demethylase 4C	No	Oncogene-induced	Inhibits	29438700
+10765	KDM5B	lysine demethylase 5B	Yes	Unclear	Inhibits	23354547
+23135	KDM6B	lysine demethylase 6B	Yes	Unclear	Induces	25652587
+3791	KDR	kinase insert domain receptor	Yes	Unclear	Inhibits	26420897
+9817	KEAP1	kelch like ECH associated protein 1	No	Stress-induced	Induces	31491600
+3832	KIF11	kinesin family member 11	Yes	Oncogene-induced	Inhibits	28806777
+10112	KIF20A	kinesin family member 20A	Yes	Stress-induced	Inhibits	25961928
+11004	KIF2C	kinesin family member 2C	Yes	Unclear	Inhibits	23098759
+3833	KIFC1	kinesin family member C1	No	Unclear	Inhibits	23318213
+9365	KL	klotho	No	Replicative	Inhibits	17014852
+9314	KLF4	Kruppel like factor 4	Yes	Oncogene-induced	Induces	27531889
+85442	KNDC1	kinase non-catalytic C-lobe domain containing 1	No	Unclear	Induces	29568929
+3880	KRT19	keratin 19	Yes	Unclear	Inhibits	27863477
+283455	KSR2	kinase suppressor of ras 2	Yes	Unclear	Unclear	23324396
+3920	LAMP2	lysosomal associated membrane protein 2	No	Unclear	Inhibits	21858089
+9113	LATS1	large tumor suppressor kinase 1	Yes	Unclear	Inhibits	23324396
+26524	LATS2	large tumor suppressor kinase 2	No	Replicative	Induces	30755404
+143903	LAYN	layilin	No	Unclear	Induces	21740549
+3930	LBR	lamin B receptor	Yes	Stress-induced	Inhibits	30615890
+3934	LCN2	lipocalin 2	No	Stress-induced	Inhibits	24452457
+123169	LEO1	LEO1 homolog, Paf1/RNA polymerase II complex component	No	Replicative	Unclear	15791002
+3958	LGALS3	galectin 3	Yes	Unclear	Inhibits	24971481
+51474	LIMA1	LIM domain and actin binding 1	No	Replicative	Inhibits	26206181
+51474	LIMA1	LIM domain and actin binding 1	No	Stress-induced	Inhibits	26206181
+3984	LIMK1	LIM domain kinase 1	No	Unclear	Induces	26583757
+91750	LIN52	lin-52 DREAM MuvB core complex component	Yes	Oncogene-induced	Unclear	21498570
+132660	LIN54	lin-54 DREAM MuvB core complex component	No	Oncogene-induced	Inhibits	21860417
+286826	LIN9	lin-9 DREAM MuvB core complex component	No	Oncogene-induced	Inhibits	21860417
+4000	LMNA	lamin A/C	No	Unclear	Unclear	28483909
+4001	LMNB1	lamin B1	No	Oncogene-induced	Inhibits	22155925
+102724571	LNCTAM34A	long non coding transcriptional activator of miR34a	Yes	Replicative	Inhibits	29593331
+4015	LOX	lysyl oxidase	No	Oncogene-induced	Inhibits	24113189
+4015	LOX	lysyl oxidase	No	Stress-induced	Inhibits	24113189
+4017	LOXL2	lysyl oxidase like 2	No	Oncogene-induced	Inhibits	24113189
+4017	LOXL2	lysyl oxidase like 2	No	Stress-induced	Inhibits	24113189
+1902	LPAR1	lysophosphatidic acid receptor 1	Yes	Unclear	Induces	27641212
+23566	LPAR3	lysophosphatidic acid receptor 3	No	Unclear	Inhibits	27641212
+120892	LRRK2	leucine rich repeat kinase 2	Yes	Unclear	Unclear	30712480
+8581	LY6D	lymphocyte antigen 6 family member D	Yes	Unclear	Induces	27545311
+8379	MAD1L1	mitotic arrest deficient 1 like 1	Yes	Stress-induced	Induces	19766114
+4085	MAD2L1	mitotic arrest deficient 2 like 1	No	Unclear	Inhibits	22170163
+84944	MAEL	maelstrom spermatogenic transposon silencer	No	Oncogene-induced	Inhibits	27926513
+4094	MAF	MAF bZIP transcription factor	No	Stress-induced	Inhibits	26496036
+4101	MAGEA2	MAGE family member A2	No	Oncogene-induced	Inhibits	22117195
+55110	MAGOHB	mago homolog B, exon junction complex subunit	No	Replicative	Inhibits	26206181
+55110	MAGOHB	mago homolog B, exon junction complex subunit	No	Stress-induced	Inhibits	26206181
+5604	MAP2K1	mitogen-activated protein kinase kinase 1	No	Unclear	Induces	14701721
+5605	MAP2K2	mitogen-activated protein kinase kinase 2	No	Oncogene-induced	Induces	9765203
+5606	MAP2K3	mitogen-activated protein kinase kinase 3	Yes	Unclear	Inhibits	23324396
+5608	MAP2K6	mitogen-activated protein kinase kinase 6	Yes	Unclear	Induces	12208764
+5609	MAP2K7	mitogen-activated protein kinase kinase 7	No	Unclear	Induces	26583757
+9020	MAP3K14	mitogen-activated protein kinase kinase kinase 14	Yes	Stress-induced	Induces	22740410
+4217	MAP3K5	mitogen-activated protein kinase kinase kinase 5	No	Stress-induced	Induces	16731828
+9064	MAP3K6	mitogen-activated protein kinase kinase kinase 6	No	Unclear	Induces	26583757
+6885	MAP3K7	mitogen-activated protein kinase kinase kinase 7	No	Unclear	Induces	26583757
+11184	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	Yes	Unclear	Inhibits	23324396
+5594	MAPK1	mitogen-activated protein kinase 1	No	Oncogene-induced	Induces	23599344
+6300	MAPK12	mitogen-activated protein kinase 12	No	Unclear	Induces	26583757
+1432	MAPK14	mitogen-activated protein kinase 14	No	Replicative	Induces	12581156
+1432	MAPK14	mitogen-activated protein kinase 14	No	Stress-induced	Induces	12581156
+5601	MAPK9	mitogen-activated protein kinase 9	Yes	Oncogene-induced	Inhibits	20354187
+8550	MAPKAPK5	MAPK activated protein kinase 5	No	Oncogene-induced	Induces	17254968
+54708	MARCHF5	membrane associated ring-CH-type finger 5	Yes	Stress-induced	Inhibits	20103533
+4082	MARCKS	myristoylated alanine rich protein kinase C substrate	Yes	Unclear	Induces	22619307
+22983	MAST1	microtubule associated serine/threonine kinase 1	No	Unclear	Induces	26583757
+4145	MATK	megakaryocyte-associated tyrosine kinase	No	Unclear	Induces	26583757
+57506	MAVS	mitochondrial antiviral signaling protein	No	Unclear	Induces	28471483
+4162	MCAM	melanoma cell adhesion molecule	No	Replicative	Inhibits	26941359
+4170	MCL1	MCL1 apoptosis regulator, BCL2 family member	Yes	Stress-induced	Inhibits	22451485
+8888	MCM3AP	minichromosome maintenance complex component 3 associated protein	No	Unclear	Inhibits	19686285
+4176	MCM7	minichromosome maintenance complex component 7	No	Unclear	Inhibits	32264951
+10445	MCRS1	microspherule protein 1	No	Unclear	Induces	22563078
+90550	MCU	mitochondrial calcium uniporter	No	Oncogene-induced	Induces	24797322
+9656	MDC1	mediator of DNA damage checkpoint 1	Yes	Replicative	Inhibits	17158742
+4190	MDH1	malate dehydrogenase 1	No	Unclear	Inhibits	22971926
+4192	MDK	midkine	No	Stress-induced	Inhibits	31219803
+4193	MDM2	MDM2 proto-oncogene	Yes	Unclear	Inhibits	25803170
+145553	MDP1	magnesium dependent phosphatase 1	Yes	Unclear	Induces	31218958
+4199	ME1	malic enzyme 1	Yes	Stress-induced	Inhibits	25994759
+4200	ME2	malic enzyme 2	Yes	Stress-induced	Inhibits	25994759
+4204	MECP2	methyl-CpG binding protein 2	No	Replicative	Inhibits	20065105
+9968	MED12	mediator complex subunit 12	Yes	Unclear	Inhibits	31072327
+4205	MEF2A	myocyte enhancer factor 2A	No	Replicative	Inhibits	31182679
+4205	MEF2A	myocyte enhancer factor 2A	No	Stress-induced	Inhibits	31182679
+4212	MEIS2	Meis homeobox 2	Yes	Unclear	Inhibits	30975979
+4221	MEN1	menin 1	No	Oncogene-induced	Induces	18267069
+4222	MEOX1	mesenchyme homeobox 1	No	Unclear	Induces	22206000
+4233	MET	MET proto-oncogene, receptor tyrosine kinase	Yes	Unclear	Inhibits	25726528
+57721	METTL14	methyltransferase 14, N6-adenosine-methyltransferase subunit	Yes	Stress-induced	Induces	28247949
+4282	MIF	macrophage migration inhibitory factor	No	Stress-induced	Inhibits	24274936
+50488	MINK1	misshapen like kinase 1	Yes	Oncogene-induced	Induces	16337592
+4286	MITF	melanocyte inducing transcription factor	Yes	Oncogene-induced	Unclear	28376192
+23608	MKRN1	makorin ring finger protein 1	Yes	Unclear	Inhibits	19536131
+4311	MME	membrane metalloendopeptidase	No	Oncogene-induced	Induces	30671946
+4311	MME	membrane metalloendopeptidase	No	Stress-induced	Induces	30671946
+4316	MMP7	matrix metallopeptidase 7	No	Unclear	Inhibits	18207346
+4318	MMP9	matrix metallopeptidase 9	Yes	Unclear	Inhibits	17510426
+3110	MNX1	motor neuron and pancreas homeobox 1	Yes	Oncogene-induced	Induces	30093397
+126308	MOB3A	MOB kinase activator 3A	No	Unclear	Induces	26583757
+23515	MORC3	MORC family CW-type zinc finger 3	No	Unclear	Induces	17332504
+10933	MORF4L1	mortality factor 4 like 1	No	Stress-induced	Inhibits	31219803
+4342	MOS	MOS proto-oncogene, serine/threonine kinase	No	Oncogene-induced	Induces	17136093
+57591	MRTFA	myocardin related transcription factor A	Yes	Oncogene-induced	Inhibits	23853104
+57496	MRTFB	myocardin related transcription factor B	Yes	Oncogene-induced	Inhibits	23853104
+4478	MSN	moesin	No	Unclear	Inhibits	20376899
+4485	MST1	macrophage stimulating 1	Yes	Oncogene-induced	Induces	24334454
+4495	MT1G	metallothionein 1G	Yes	Stress-induced	Induces	20705054
+92140	MTDH	metadherin	Yes	Unclear	Inhibits	28923415
+10797	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	No	Unclear	Inhibits	32264951
+2475	MTOR	mechanistic target of rapamycin kinase	No	Stress-induced	Inhibits	31219803
+4585	MUC4	mucin 4, cell surface associated	Yes	Oncogene-induced	Inhibits	24747969
+80198	MUS81	MUS81 structure-specific endonuclease subunit	Yes	Replicative	Inhibits	26415217
+80198	MUS81	MUS81 structure-specific endonuclease subunit	Yes	Replicative	Inhibits	27255997
+4598	MVK	mevalonate kinase	No	Unclear	Induces	26583757
+9961	MVP	major vault protein	Yes	Stress-induced	Induces	24997994
+10608	MXD4	MAX dimerization protein 4	No	Replicative	Induces	12761891
+10514	MYBBP1A	MYB binding protein 1a	Yes	Stress-induced	Inhibits	25543088
+4605	MYBL2	MYB proto-oncogene like 2	Yes	Oncogene-induced	Inhibits	17182682
+4609	MYC	MYC proto-oncogene, bHLH transcription factor	No	Oncogene-induced	Inhibits	16537449
+4613	MYCN	MYCN proto-oncogene, bHLH transcription factor	Yes	Replicative	Inhibits	29022893
+4613	MYCN	MYCN proto-oncogene, bHLH transcription factor	Yes	Stress-induced	Inhibits	29022893
+4615	MYD88	MYD88 innate immune signal transduction adaptor	Yes	Stress-induced	Inhibits	25231413
+4638	MYLK	myosin light chain kinase	Yes	Unclear	Inhibits	23324396
+112939	NACC1	nucleus accumbens associated 1	Yes	Stress-induced	Inhibits	28599472
+65220	NADK	NAD kinase	No	Unclear	Induces	26583757
+10135	NAMPT	nicotinamide phosphoribosyltransferase	No	Replicative	Inhibits	17307730
+79923	NANOG	Nanog homeobox	Yes	Replicative	Inhibits	26795560
+4683	NBN	nibrin	Yes	Stress-induced	Inhibits	24141789
+4077	NBR1	NBR1 autophagy cargo receptor	Yes	Oncogene-induced	Inhibits	30260700
+4077	NBR1	NBR1 autophagy cargo receptor	Yes	Stress-induced	Inhibits	30260700
+54892	NCAPG2	non-SMC condensin II complex subunit G2	No	Unclear	Inhibits	25474630
+29781	NCAPH2	non-SMC condensin II complex subunit H2	No	Oncogene-induced	Induces	26017022
+10397	NDRG1	N-myc downstream regulated 1	Yes	Unclear	Induces	24302615
+8509	NDST2	N-deacetylase and N-sulfotransferase 2	No	Oncogene-induced	Induces	27737960
+4734	NEDD4	NEDD4 E3 ubiquitin protein ligase	No	Oncogene-induced	Inhibits	23549616
+4750	NEK1	NIMA related kinase 1	Yes	Unclear	Inhibits	23324396
+4751	NEK2	NIMA related kinase 2	No	Unclear	Inhibits	32264951
+6787	NEK4	NIMA related kinase 4	No	Replicative	Induces	22851694
+6787	NEK4	NIMA related kinase 4	No	Stress-induced	Induces	22851694
+10783	NEK6	NIMA related kinase 6	Yes	Unclear	Inhibits	21099361
+91754	NEK9	NIMA related kinase 9	Yes	Oncogene-induced	Inhibits	29112787
+4763	NF1	neurofibromin 1	No	Oncogene-induced	Inhibits	25824590
+4771	NF2	neurofibromin 2	No	Oncogene-induced	Induces	18267069
+4780	NFE2L2	nuclear factor, erythroid 2 like 2	No	Unclear	Inhibits	20068043
+4791	NFKB2	nuclear factor kappa B subunit 2	No	Unclear	Inhibits	25255445
+4792	NFKBIA	NFKB inhibitor alpha	Yes	Replicative	Induces	21552325
+4792	NFKBIA	NFKB inhibitor alpha	Yes	Stress-induced	Induces	21552325
+79840	NHEJ1	non-homologous end joining factor 1	No	Replicative	Inhibits	28369633
+4814	NINJ1	ninjurin 1	Yes	Unclear	Induces	15464245
+81614	NIPA2	NIPA magnesium transporter 2	No	Unclear	Inhibits	32264951
+51701	NLK	nemo like kinase	Yes	Unclear	Inhibits	23144700
+79671	NLRX1	NLR family member X1	Yes	Unclear	Induces	29482578
+9221	NOLC1	nucleolar and coiled-body phosphoprotein 1	No	Unclear	Induces	28493459
+4851	NOTCH1	notch receptor 1	No	Oncogene-induced	Induces	24931169
+4854	NOTCH3	notch receptor 3	Yes	Stress-induced	Induces	23610446
+27035	NOX1	NADPH oxidase 1	No	Unclear	Induces	29042481
+50507	NOX4	NADPH oxidase 4	No	Oncogene-induced	Induces	20523116
+50507	NOX4	NADPH oxidase 4	No	Oncogene-induced	Induces	23216904
+4869	NPM1	nucleophosmin 1	Yes	Oncogene-induced	Inhibits	23536448
+1728	NQO1	NAD(P)H quinone dehydrogenase 1	No	Oncogene-induced	Induces	26078718
+7376	NR1H2	nuclear receptor subfamily 1 group H member 2	No	Stress-induced	Inhibits	24398515
+7101	NR2E1	nuclear receptor subfamily 2 group E member 1	No	Oncogene-induced	Unclear	25328137
+4893	NRAS	NRAS proto-oncogene, GTPase	No	Oncogene-induced	Induces	16964246
+4899	NRF1	nuclear respiratory factor 1	No	Unclear	Inhibits	30486409
+80023	NRSN2	neurensin 2	Yes	Unclear	Induces	26055238
+54888	NSUN2	NOP2/Sun RNA methyltransferase 2	No	Replicative	Inhibits	26687548
+54888	NSUN2	NOP2/Sun RNA methyltransferase 2	No	Stress-induced	Inhibits	26687548
+59277	NTN4	netrin 4	Yes	Stress-induced	Inhibits	24265816
+9891	NUAK1	NUAK family kinase 1	No	Unclear	Induces	19927127
+81788	NUAK2	NUAK family kinase 2	Yes	Oncogene-induced	Inhibits	21460252
+11164	NUDT5	nudix hydrolase 5	No	Oncogene-induced	Inhibits	23581889
+10204	NUTF2	nuclear transport factor 2	No	Unclear	Inhibits	29970603
+4968	OGG1	8-oxoguanine DNA glycosylase	No	Oncogene-induced	Inhibits	24618719
+8473	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase	No	Oncogene-induced	Induces	27217568
+4976	OPA1	OPA1 mitochondrial dynamin like GTPase	Yes	Unclear	Inhibits	17545159
+84876	ORAI1	ORAI calcium release-activated calcium modulator 1	Yes	Unclear	Induces	26257076
+4998	ORC1	origin recognition complex subunit 1	Yes	Replicative	Inhibits	28216383
+5015	OTX2	orthodenticle homeobox 2	Yes	Oncogene-induced	Induces	21047732
+5021	OXTR	oxytocin receptor	No	Stress-induced	Inhibits	31219803
+9934	P2RY14	purinergic receptor P2Y14	No	Unclear	Inhibits	28980705
+64175	P3H1	prolyl 3-hydroxylase 1	No	Replicative	Inhibits	26206181
+64175	P3H1	prolyl 3-hydroxylase 1	No	Stress-induced	Inhibits	26206181
+5062	PAK2	p21 (RAC1) activated kinase 2	No	Oncogene-induced	Induces	31209047
+10298	PAK4	p21 (RAC1) activated kinase 4	No	Unclear	Induces	26583757
+9060	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	Yes	Unclear	Inhibits	26250908
+11315	PARK7	Parkinsonism associated deglycase	No	Unclear	Inhibits	28600848
+142	PARP1	poly(ADP-ribose) polymerase 1	Yes	Unclear	Inhibits	29590171
+23598	PATZ1	POZ/BTB and AT hook containing zinc finger 1	No	Unclear	Inhibits	22052190
+7849	PAX8	paired box 8	Yes	Replicative	Inhibits	21602887
+55193	PBRM1	polybromo 1	No	Replicative	Induces	26992241
+7703	PCGF2	polycomb group ring finger 2	No	Unclear	Induces	17151361
+11235	PDCD10	programmed cell death 10	No	Replicative	Induces	25655101
+11235	PDCD10	programmed cell death 10	No	Oncogene-induced	Induces	25655101
+22984	PDCD11	programmed cell death 11	Yes	Replicative	Inhibits	25732822
+22984	PDCD11	programmed cell death 11	Yes	Oncogene-induced	Inhibits	25732822
+27250	PDCD4	programmed cell death 4	Yes	Replicative	Inhibits	30687637
+5155	PDGFB	platelet derived growth factor subunit B	No	Oncogene-induced	Induces	23934686
+149420	PDIK1L	PDLIM1 interacting kinase 1 like	No	Unclear	Induces	26583757
+5170	PDPK1	3-phosphoinositide dependent protein kinase 1	No	Unclear	Induces	26583757
+23037	PDZD2	PDZ domain containing 2	Yes	Unclear	Induces	18639375
+8682	PEA15	proliferation and apoptosis adaptor protein 15	Yes	Replicative	Induces	18267069
+8682	PEA15	proliferation and apoptosis adaptor protein 15	Yes	Oncogene-induced	Induces	18267069
+5037	PEBP1	phosphatidylethanolamine binding protein 1	Yes	Stress-induced	Induces	23814485
+27043	PELP1	proline, glutamate and leucine rich protein 1	Yes	Oncogene-induced	Inhibits	24967003
+23481	PES1	pescadillo ribosomal biogenesis factor 1	Yes	Replicative	Inhibits	25732822
+23481	PES1	pescadillo ribosomal biogenesis factor 1	Yes	Oncogene-induced	Inhibits	25732822
+5824	PEX19	peroxisomal biogenesis factor 19	Yes	Stress-induced	Induces	17389721
+5241	PGR	progesterone receptor	Yes	Stress-induced	Induces	23574718
+5245	PHB	prohibitin	Yes	Unclear	Induces	16705168
+11331	PHB2	prohibitin 2	No	Unclear	Inhibits	29307834
+26227	PHGDH	phosphoglycerate dehydrogenase	Yes	Unclear	Inhibits	30250195
+5298	PI4KB	phosphatidylinositol 4-kinase beta	No	Oncogene-induced	Induces	29420297
+5286	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha	Yes	Unclear	Unclear	23324396
+5290	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	No	Oncogene-induced	Unclear	21909130
+23533	PIK3R5	phosphoinositide-3-kinase regulatory subunit 5	No	Unclear	Induces	26583757
+5292	PIM1	Pim-1 proto-oncogene, serine/threonine kinase	No	Replicative	Induces	25040935
+5292	PIM1	Pim-1 proto-oncogene, serine/threonine kinase	No	Oncogene-induced	Induces	25040935
+5300	PIN1	peptidylprolyl cis/trans isomerase, NIMA-interacting 1	No	Replicative	Induces	28986099
+65018	PINK1	PTEN induced kinase 1	No	Stress-induced	Inhibits	29890141
+54984	PINX1	PIN2 (TERF1) interacting telomerase inhibitor 1	Yes	Replicative	Induces	24839934
+8544	PIR	pirin	Yes	Oncogene-induced	Inhibits	21514450
+8544	PIR	pirin	Yes	Stress-induced	Inhibits	21514450
+5307	PITX1	paired like homeodomain 1	Yes	Replicative	Induces	31404068
+5320	PLA2G2A	phospholipase A2 group IIA	No	Replicative	Induces	19197340
+22925	PLA2R1	phospholipase A2 receptor 1	No	Replicative	Induces	19197340
+22925	PLA2R1	phospholipase A2 receptor 1	No	Stress-induced	Induces	19197340
+5338	PLD2	phospholipase D2	Yes	Unclear	Inhibits	25064843
+5347	PLK1	polo like kinase 1	No	Replicative	Inhibits	23525475
+5371	PML	PML nuclear body scaffold	No	Oncogene-induced	Induces	10910364
+10654	PMVK	phosphomevalonate kinase	No	Unclear	Induces	26583757
+87178	PNPT1	polyribonucleotide nucleotidyltransferase 1	Yes	Replicative	Induces	12721301
+5444	PON1	paraoxonase 1	No	Unclear	Inhibits	22897574
+25913	POT1	protection of telomeres 1	No	Replicative	Inhibits	15657433
+5453	POU3F1	POU class 3 homeobox 1	Yes	Stress-induced	Induces	31212703
+5460	POU5F1	POU class 5 homeobox 1	No	Oncogene-induced	Induces	22746537
+5468	PPARG	peroxisome proliferator activated receptor gamma	No	Replicative	Induces	18544633
+10891	PPARGC1A	PPARG coactivator 1 alpha	Yes	Stress-induced	Inhibits	26244551
+5479	PPIB	peptidylprolyl isomerase B	Yes	Oncogene-induced	Inhibits	24272483
+5495	PPM1B	protein phosphatase, Mg2+/Mn2+ dependent 1B	No	Unclear	Inhibits	24674756
+8493	PPM1D	protein phosphatase, Mg2+/Mn2+ dependent 1D	No	Unclear	Inhibits	19544416
+23368	PPP1R13B	protein phosphatase 1 regulatory subunit 13B	Yes	Stress-induced	Inhibits	22068052
+5518	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha	Yes	Oncogene-induced	Induces	30021885
+5525	PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha	Yes	Oncogene-induced	Induces	21822300
+5563	PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2	No	Stress-induced	Inhibits	26890602
+5580	PRKCD	protein kinase C delta	No	Replicative	Induces	19279193
+5583	PRKCH	protein kinase C eta	Yes	Stress-induced	Induces	25412309
+5587	PRKD1	protein kinase D1	No	Oncogene-induced	Induces	24828530
+25865	PRKD2	protein kinase D2	Yes	Oncogene-induced	Inhibits	24463355
+5591	PRKDC	protein kinase, DNA-activated, catalytic subunit	Yes	Stress-induced	Inhibits	22009179
+5071	PRKN	parkin RBR E3 ubiquitin protein ligase	No	Stress-induced	Inhibits	25714760
+3276	PRMT1	protein arginine methyltransferase 1	Yes	Unclear	Inhibits	30741995
+55170	PRMT6	protein arginine methyltransferase 6	Yes	Unclear	Inhibits	22987071
+5625	PRODH	proline dehydrogenase 1	Yes	Unclear	Induces	27545311
+5629	PROX1	prospero homeobox 1	Yes	Replicative	Induces	23291986
+27339	PRPF19	pre-mRNA processing factor 19	No	Replicative	Inhibits	16388800
+5683	PSMA2	proteasome 20S subunit alpha 2	Yes	Oncogene-induced	Inhibits	28806777
+5686	PSMA5	proteasome 20S subunit alpha 5	Yes	Oncogene-induced	Inhibits	28806777
+5689	PSMB1	proteasome 20S subunit beta 1	Yes	Oncogene-induced	Inhibits	28806777
+5693	PSMB5	proteasome 20S subunit beta 5	No	Replicative	Inhibits	24393841
+10213	PSMD14	proteasome 26S subunit, non-ATPase 14	Yes	Unclear	Inhibits	19732767
+5728	PTEN	phosphatase and tensin homolog	Yes	Unclear	Inhibits	30337688
+5743	PTGS2	prostaglandin-endoperoxide synthase 2	No	Replicative	Induces	28803844
+5743	PTGS2	prostaglandin-endoperoxide synthase 2	No	Stress-induced	Induces	28803844
+5747	PTK2	protein tyrosine kinase 2	Yes	Unclear	Inhibits	30761269
+5770	PTPN1	protein tyrosine phosphatase non-receptor type 1	No	Oncogene-induced	Unclear	25175024
+5777	PTPN6	protein tyrosine phosphatase non-receptor type 6	Yes	Unclear	Inhibits	26215037
+9232	PTTG1	PTTG1 regulator of sister chromatid separation, securin	No	Unclear	Induces	20452981
+5814	PURB	purine rich element binding protein B	Yes	Stress-induced	Induces	24379680
+5836	PYGL	glycogen phosphorylase L	Yes	Unclear	Inhibits	23177934
+29127	RACGAP1	Rac GTPase activating protein 1	Yes	Oncogene-induced	Inhibits	27216196
+10399	RACK1	receptor for activated C kinase 1	Yes	Unclear	Inhibits	29048616
+5885	RAD21	RAD21 cohesin complex component	No	Unclear	Inhibits	26529363
+5887	RAD23B	RAD23 homolog B, nucleotide excision repair protein	No	Unclear	Inhibits	24823364
+5889	RAD51C	RAD51 paralog C	No	Stress-induced	Inhibits	26820992
+5894	RAF1	Raf-1 proto-oncogene, serine/threonine kinase	No	Oncogene-induced	Induces	9765202
+5901	RAN	RAN, member RAS oncogene family	No	Unclear	Inhibits	23160023
+10048	RANBP9	RAN binding protein 9	Yes	Stress-induced	Inhibits	26943034
+5909	RAP1GAP	RAP1 GTPase activating protein	No	Oncogene-induced	Induces	18267069
+11069	RAPGEF4	Rap guanine nucleotide exchange factor 4	No	Unclear	Inhibits	24169561
+5915	RARB	retinoic acid receptor beta	No	Oncogene-induced	Induces	7737367
+11186	RASSF1	Ras association domain family member 1	Yes	Replicative	Induces	19223555
+11186	RASSF1	Ras association domain family member 1	Yes	Oncogene-induced	Induces	19223555
+83937	RASSF4	Ras association domain family member 4	Yes	Oncogene-induced	Inhibits	24334454
+83593	RASSF5	Ras association domain family member 5	Yes	Oncogene-induced	Induces	25778922
+5925	RB1	RB transcriptional corepressor 1	No	Stress-induced	Induces	24231354
+5928	RBBP4	RB binding protein 4, chromatin remodeling factor	No	Unclear	Inhibits	26491019
+5933	RBL1	RB transcriptional corepressor like 1	Yes	Stress-induced	Induces	18418057
+5934	RBL2	RB transcriptional corepressor like 2	Yes	Replicative	Induces	19648966
+55544	RBM38	RNA binding motif protein 38	Yes	Unclear	Induces	30176896
+9584	RBM39	RNA binding motif protein 39	No	Oncogene-induced	Inhibits	24876127
+5947	RBP1	retinol binding protein 1	Yes	Oncogene-induced	Induces	16479010
+5948	RBP2	retinol binding protein 2	Yes	Unclear	Inhibits	19850045
+3516	RBPJ	recombination signal binding protein for immunoglobulin kappa J region	No	Oncogene-induced	Induces	24931169
+9978	RBX1	ring-box 1	Yes	Unclear	Inhibits	19509229
+1104	RCC1	regulator of chromosome condensation 1	Yes	Stress-induced	Inhibits	26864624
+8434	RECK	reversion inducing cysteine rich protein with kazal motifs	No	Unclear	Inhibits	20407016
+9401	RECQL4	RecQ like helicase 4	Yes	Unclear	Inhibits	29229926
+5970	RELA	RELA proto-oncogene, NF-kB subunit	Yes	Stress-induced	Induces	21552325
+5971	RELB	RELB proto-oncogene, NF-kB subunit	Yes	Stress-induced	Induces	21552325
+387	RHOA	ras homolog family member A	No	Oncogene-induced	Inhibits	19147561
+10535	RNASEH2A	ribonuclease H2 subunit A	Yes	Stress-induced	Inhibits	30532030
+79621	RNASEH2B	ribonuclease H2 subunit B	Yes	Stress-induced	Inhibits	30532030
+6041	RNASEL	ribonuclease L	No	Replicative	Induces	17130839
+140823	ROMO1	reactive oxygen species modulator 1	No	Replicative	Induces	18836179
+6135	RPL11	ribosomal protein L11	Yes	Replicative	Induces	20221446
+6135	RPL11	ribosomal protein L11	Yes	Stress-induced	Induces	20221446
+6208	RPS14	ribosomal protein S14	Yes	Oncogene-induced	Induces	29941930
+6198	RPS6KB1	ribosomal protein S6 kinase B1	No	Unclear	Induces	22928666
+6198	RPS6KB1	ribosomal protein S6 kinase B1	No	Unclear	Induces	21544240
+6203	RPS9	ribosomal protein S9	Yes	Unclear	Inhibits	20221446
+57521	RPTOR	regulatory associated protein of MTOR complex 1	No	Unclear	Induces	28888905
+6236	RRAD	RRAD, Ras related glycolysis inhibitor and calcium channel regulator	Yes	Replicative	Inhibits	20460530
+6236	RRAD	RRAD, Ras related glycolysis inhibitor and calcium channel regulator	Yes	Stress-induced	Inhibits	20460530
+22800	RRAS2	RAS related 2	No	Unclear	Inhibits	29440281
+6240	RRM1	ribonucleotide reductase catalytic subunit M1	Yes	Oncogene-induced	Inhibits	28806777
+6241	RRM2	ribonucleotide reductase regulatory subunit M2	Yes	Oncogene-induced	Inhibits	23249808
+50484	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B	No	Unclear	Inhibits	23139867
+23378	RRP8	ribosomal RNA processing 8	Yes	Stress-induced	Induces	26505814
+57142	RTN4	reticulon 4	Yes	Unclear	Induces	30480803
+861	RUNX1	RUNX family transcription factor 1	No	Unclear	Induces	19448675
+10856	RUVBL2	RuvB like AAA ATPase 2	Yes	Replicative	Inhibits	22341977
+6277	S100A6	S100 calcium binding protein A6	No	Unclear	Inhibits	23095053
+6299	SALL1	spalt like transcription factor 1	Yes	Oncogene-induced	Induces	29625565
+25939	SAMHD1	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1	Yes	Replicative	Inhibits	24445253
+112483	SAT2	spermidine/spermine N1-acetyltransferase family member 2	No	Unclear	Inhibits	26611489
+6382	SDC1	syndecan 1	Yes	Unclear	Inhibits	25462564
+8991	SELENBP1	selenium binding protein 1	Yes	Stress-induced	Induces	20332323
+280636	SELENOH	selenoprotein H	No	Stress-induced	Inhibits	25336634
+29843	SENP1	SUMO specific peptidase 1	No	Unclear	Inhibits	18616636
+57337	SENP7	SUMO specific peptidase 7	No	Unclear	Inhibits	18616636
+5055	SERPINB2	serpin family B member 2	No	Unclear	Induces	28794016
+5054	SERPINE1	serpin family E member 1	No	Replicative	Induces	16862142
+9739	SETD1A	SET domain containing 1A, histone lysine methyltransferase	Yes	Unclear	Inhibits	31253781
+2810	SFN	stratifin	Yes	Oncogene-induced	Induces	19642975
+6422	SFRP1	secreted frizzled related protein 1	No	Stress-induced	Induces	22927647
+6446	SGK1	serum/glucocorticoid regulated kinase 1	No	Replicative	Inhibits	26230157
+6477	SIAH1	siah E3 ubiquitin protein ligase 1	No	Replicative	Induces	21057505
+150094	SIK1	salt inducible kinase 1	No	Unclear	Induces	26583757
+23309	SIN3B	SIN3 transcription regulator family member B	No	Unclear	Induces	19654306
+23411	SIRT1	sirtuin 1	No	Unclear	Inhibits	18320031
+22933	SIRT2	sirtuin 2	No	Unclear	Inhibits	25924011
+23410	SIRT3	sirtuin 3	No	Stress-induced	Inhibits	23494737
+51548	SIRT6	sirtuin 6	No	Replicative	Inhibits	25819580
+51547	SIRT7	sirtuin 7	Yes	Stress-induced	Inhibits	24885964
+6495	SIX1	SIX homeobox 1	No	Oncogene-induced	Inhibits	26500063
+4990	SIX6	SIX homeobox 6	No	Unclear	Unclear	26365380
+6502	SKP2	S-phase kinase associated protein 2	Yes	Oncogene-induced	Inhibits	20237562
+64849	SLC13A3	solute carrier family 13 member 3	No	Stress-induced	Induces	25384549
+9194	SLC16A7	solute carrier family 16 member 7	Yes	Unclear	Inhibits	22964484
+292	SLC25A5	solute carrier family 25 member 5	Yes	Stress-induced	Inhibits	25220407
+1318	SLC31A2	solute carrier family 31 member 2	No	Oncogene-induced	Induces	27737960
+55065	SLC52A1	solute carrier family 52 member 1	Yes	Stress-induced	Inhibits	27545311
+6524	SLC5A2	solute carrier family 5 member 2	No	Stress-induced	Induces	24996978
+4086	SMAD1	SMAD family member 1	Yes	Oncogene-induced	Induces	21050181
+4087	SMAD2	SMAD family member 2	Yes	Unclear	Inhibits	30971692
+4088	SMAD3	SMAD family member 3	No	Stress-induced	Induces	27892764
+4090	SMAD5	SMAD family member 5	Yes	Oncogene-induced	Induces	21050181
+4091	SMAD6	SMAD family member 6	Yes	Replicative	Inhibits	19269967
+4091	SMAD6	SMAD family member 6	Yes	Stress-induced	Inhibits	19269967
+6595	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	Yes	Unclear	Inhibits	23872584
+6597	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	No	Replicative	Inhibits	20697355
+6598	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	Yes	Unclear	Induces	14604992
+6602	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	Yes	Unclear	Inhibits	28868154
+8243	SMC1A	structural maintenance of chromosomes 1A	No	Unclear	Inhibits	27731420
+10592	SMC2	structural maintenance of chromosomes 2	No	Unclear	Inhibits	25474630
+23049	SMG1	SMG1 nonsense mediated mRNA decay associated PI3K related kinase	Yes	Unclear	Inhibits	23324396
+64750	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	No	Replicative	Induces	15574587
+6615	SNAI1	snail family transcriptional repressor 1	Yes	Unclear	Inhibits	20397042
+8651	SOCS1	suppressor of cytokine signaling 1	No	Replicative	Induces	20005840
+8651	SOCS1	suppressor of cytokine signaling 1	No	Oncogene-induced	Induces	20005840
+6647	SOD1	superoxide dismutase 1	No	Unclear	Inhibits	12871978
+6648	SOD2	superoxide dismutase 2	No	Unclear	Induces	12592389
+8470	SORBS2	sorbin and SH3 domain containing 2	No	Unclear	Induces	24165198
+6656	SOX1	SRY-box transcription factor 1	Yes	Oncogene-induced	Induces	22767186
+6657	SOX2	SRY-box transcription factor 2	Yes	Unclear	Induces	23451179
+6659	SOX4	SRY-box transcription factor 4	Yes	Stress-induced	Inhibits	27446439
+6660	SOX5	SRY-box transcription factor 5	Yes	Oncogene-induced	Induces	19219070
+6667	SP1	Sp1 transcription factor	No	Unclear	Induces	17225865
+9043	SPAG9	sperm associated antigen 9	Yes	Unclear	Inhibits	27449044
+6678	SPARC	secreted protein acidic and cysteine rich	Yes	Stress-induced	Induces	20164124
+8877	SPHK1	sphingosine kinase 1	No	Replicative	Inhibits	30885289
+6688	SPI1	Spi-1 proto-oncogene	No	Oncogene-induced	Induces	28912174
+10927	SPIN1	spindlin 1	Yes	Unclear	Induces	18201843
+8405	SPOP	speckle type BTB/POZ protein	No	Oncogene-induced	Induces	26527005
+6714	SRC	SRC proto-oncogene, non-receptor tyrosine kinase	Yes	Stress-induced	Inhibits	16204065
+6720	SREBF1	sterol regulatory element binding transcription factor 1	Yes	Stress-induced	Induces	24396695
+6720	SREBF1	sterol regulatory element binding transcription factor 1	Yes	Stress-induced	Induces	20615871
+6722	SRF	serum response factor	Yes	Unclear	Inhibits	20096952
+6426	SRSF1	serine and arginine rich splicing factor 1	Yes	Oncogene-induced	Induces	23478443
+6427	SRSF2	serine and arginine rich splicing factor 2	No	Stress-induced	Inhibits	30026406
+6428	SRSF3	serine and arginine rich splicing factor 3	No	Replicative	Inhibits	22777358
+6757	SSX2	SSX family member 2	Yes	Oncogene-induced	Induces	25363656
+10735	STAG2	stromal antigen 2	No	Replicative	Induces	28819029
+6772	STAT1	signal transducer and activator of transcription 1	No	Unclear	Induces	22217266
+6774	STAT3	signal transducer and activator of transcription 3	No	Oncogene-induced	Induces	22374671
+6776	STAT5A	signal transducer and activator of transcription 5A	No	Oncogene-induced	Induces	17913706
+6777	STAT5B	signal transducer and activator of transcription 5B	No	Unclear	Induces	20536843
+6778	STAT6	signal transducer and activator of transcription 6	Yes	Unclear	Induces	23935100
+6786	STIM1	stromal interaction molecule 1	Yes	Unclear	Unclear	26257076
+282974	STK32C	serine/threonine kinase 32C	No	Unclear	Induces	26583757
+6789	STK4	serine/threonine kinase 4	No	Unclear	Induces	26611489
+83931	STK40	serine/threonine kinase 40	No	Unclear	Induces	26583757
+79991	STN1	STN1 subunit of CST complex	No	Replicative	Inhibits	22964711
+10273	STUB1	STIP1 homology and U-box containing protein 1	Yes	Stress-induced	Inhibits	28232384
+6613	SUMO2	small ubiquitin like modifier 2	No	Unclear	Induces	17012228
+6612	SUMO3	small ubiquitin like modifier 3	No	Unclear	Induces	17012228
+6829	SUPT5H	SPT5 homolog, DSIF elongation factor subunit	Yes	Oncogene-induced	Inhibits	19210550
+6839	SUV39H1	SUV39H1 histone lysine methyltransferase	No	Unclear	Inhibits	26160351
+23512	SUZ12	SUZ12 polycomb repressive complex 2 subunit	No	Replicative	Inhibits	23455154
+23512	SUZ12	SUZ12 polycomb repressive complex 2 subunit	No	Oncogene-induced	Inhibits	23455154
+6850	SYK	spleen associated tyrosine kinase	Yes	Unclear	Induces	19293188
+6857	SYT1	synaptotagmin 1	Yes	Unclear	Inhibits	30647108
+9066	SYT7	synaptotagmin 7	Yes	Unclear	Inhibits	30647108
+10460	TACC3	transforming acidic coiled-coil containing protein 3	Yes	Stress-induced	Inhibits	20729911
+6876	TAGLN	transgelin	Yes	Stress-induced	Induces	20705054
+29110	TBK1	TANK binding kinase 1	Yes	Unclear	Inhibits	24487029
+9519	TBPL1	TATA-box binding protein like 1	Yes	Stress-induced	Induces	28082682
+6909	TBX2	T-box transcription factor 2	Yes	Replicative	Inhibits	15781639
+6926	TBX3	T-box transcription factor 3	No	Oncogene-induced	Inhibits	24876127
+7003	TEAD1	TEA domain transcription factor 1	Yes	Oncogene-induced	Inhibits	28759040
+7004	TEAD4	TEA domain transcription factor 4	Yes	Oncogene-induced	Inhibits	28759040
+7014	TERF2	telomeric repeat binding factor 2	Yes	Replicative	Inhibits	16539655
+7015	TERT	telomerase reverse transcriptase	No	Replicative	Inhibits	9454332
+7027	TFDP1	transcription factor Dp-1	Yes	Unclear	Inhibits	22012588
+10342	TFG	trafficking from ER to golgi regulator	Yes	Unclear	Inhibits	21809350
+7041	TGFB1I1	transforming growth factor beta 1 induced transcript 1	No	Unclear	Induces	9032249
+7042	TGFB2	transforming growth factor beta 2	Yes	Oncogene-induced	Inhibits	30971692
+7045	TGFBI	transforming growth factor beta induced	Yes	Replicative	Induces	22695319
+7046	TGFBR1	transforming growth factor beta receptor 1	Yes	Unclear	Inhibits	30971692
+7048	TGFBR2	transforming growth factor beta receptor 2	Yes	Unclear	Unclear	28273461
+7048	TGFBR2	transforming growth factor beta receptor 2	Yes	Unclear	Unclear	30971692
+7068	THRB	thyroid hormone receptor beta	Yes	Stress-induced	Unclear	17965546
+57103	TIGAR	TP53 induced glycolysis regulatory phosphatase	Yes	Stress-induced	Induces	19710698
+8914	TIMELESS	timeless circadian regulator	No	Oncogene-induced	Inhibits	30100061
+81793	TLR10	toll like receptor 10	No	Oncogene-induced	Induces	31183403
+7097	TLR2	toll like receptor 2	No	Oncogene-induced	Induces	31183403
+7098	TLR3	toll like receptor 3	No	Unclear	Induces	24165198
+7099	TLR4	toll like receptor 4	No	Unclear	Inhibits	30790400
+51311	TLR8	toll like receptor 8	Yes	Stress-induced	Inhibits	25231413
+56674	TMEM9B	TMEM9 domain family member B	Yes	Unclear	Induces	21740549
+8741	TNFSF13	TNF superfamily member 13	Yes	Unclear	Inhibits	19466596
+9966	TNFSF15	TNF superfamily member 15	No	Replicative	Induces	20675618
+10043	TOM1	target of myb1 membrane trafficking protein	No	Unclear	Induces	15265694
+7150	TOP1	DNA topoisomerase I	No	Oncogene-induced	Induces	19435923
+7156	TOP3A	DNA topoisomerase III alpha	Yes	Replicative	Induces	24526736
+11073	TOPBP1	DNA topoisomerase II binding protein 1	Yes	Replicative	Inhibits	21149450
+11073	TOPBP1	DNA topoisomerase II binding protein 1	Yes	Oncogene-induced	Inhibits	21149450
+7157	TP53	tumor protein p53	Yes	Replicative	Induces	9275177
+7157	TP53	tumor protein p53	Yes	Stress-induced	Induces	9275177
+7157	TP53	tumor protein p53	Yes	Oncogene-induced	Induces	9275177
+7158	TP53BP1	tumor protein p53 binding protein 1	No	Unclear	Induces	27371829
+7159	TP53BP2	tumor protein p53 binding protein 2	No	Oncogene-induced	Induces	23248303
+9540	TP53I3	tumor protein p53 inducible protein 3	Yes	Replicative	Inhibits	28259183
+9540	TP53I3	tumor protein p53 inducible protein 3	Yes	Stress-induced	Inhibits	28259183
+94241	TP53INP1	tumor protein p53 inducible nuclear protein 1	No	Stress-induced	Induces	21093163
+8626	TP63	tumor protein p63	No	Oncogene-induced	Induces	19898465
+1200	TPP1	tripeptidyl peptidase 1	No	Stress-induced	Inhibits	27559927
+7175	TPR	translocated promoter region, nuclear basket protein	Yes	Unclear	Inhibits	21811608
+22974	TPX2	TPX2 microtubule nucleation factor	Yes	Unclear	Inhibits	28638452
+6434	TRA2B	transformer 2 beta homolog	Yes	Unclear	Inhibits	27043659
+1787	TRDMT1	tRNA aspartic acid methyltransferase 1	No	Replicative	Inhibits	28843151
+10155	TRIM28	tripartite motif containing 28	No	Oncogene-induced	Induces	25160591
+54822	TRPM7	transient receptor potential cation channel subfamily M member 7	Yes	Replicative	Inhibits	22166235
+79054	TRPM8	transient receptor potential cation channel subfamily M member 8	Yes	Replicative	Inhibits	22555807
+8295	TRRAP	transformation/transcription domain associated protein	Yes	Oncogene-induced	Inhibits	28806777
+8848	TSC22D1	TSC22 domain family member 1	No	Oncogene-induced	Inhibits	21448135
+7272	TTK	TTK protein kinase	Yes	Unclear	Inhibits	27618777
+7291	TWIST1	twist family bHLH transcription factor 1	Yes	Oncogene-induced	Inhibits	22654667
+7291	TWIST1	twist family bHLH transcription factor 1	Yes	Oncogene-induced	Inhibits	24974259
+117581	TWIST2	twist family bHLH transcription factor 2	Yes	Oncogene-induced	Inhibits	24974259
+7295	TXN	thioredoxin	No	Unclear	Inhibits	20074557
+10628	TXNIP	thioredoxin interacting protein	No	Replicative	Induces	20656682
+10628	TXNIP	thioredoxin interacting protein	No	Oncogene-induced	Induces	20656682
+7297	TYK2	tyrosine kinase 2	No	Unclear	Induces	26583757
+7298	TYMS	thymidylate synthetase	Yes	Oncogene-induced	Inhibits	23249808
+11065	UBE2C	ubiquitin conjugating enzyme E2 C	Yes	Unclear	Inhibits	29904125
+7329	UBE2I	ubiquitin conjugating enzyme E2 I	Yes	Oncogene-induced	Inhibits	29773808
+7334	UBE2N	ubiquitin conjugating enzyme E2 N	Yes	Unclear	Inhibits	30224375
+7335	UBE2V1	ubiquitin conjugating enzyme E2 V1	Yes	Unclear	Inhibits	30224375
+7336	UBE2V2	ubiquitin conjugating enzyme E2 V2	Yes	Unclear	Inhibits	30224375
+7337	UBE3A	ubiquitin protein ligase E3A	Yes	Oncogene-induced	Inhibits	22689861
+80019	UBTD1	ubiquitin domain containing 1	Yes	Replicative	Induces	25382750
+80019	UBTD1	ubiquitin domain containing 1	Yes	Stress-induced	Induces	25382750
+29128	UHRF1	ubiquitin like with PHD and ring finger domains 1	No	Oncogene-induced	Inhibits	28394343
+25989	ULK3	unc-51 like kinase 3	No	Unclear	Induces	19279323
+7398	USP1	ubiquitin specific peptidase 1	No	Oncogene-induced	Inhibits	27160904
+57646	USP28	ubiquitin specific peptidase 28	No	Unclear	Induces	27371829
+55813	UTP6	UTP6 small subunit processome component	Yes	Replicative	Inhibits	25732822
+55813	UTP6	UTP6 small subunit processome component	Yes	Oncogene-induced	Inhibits	25732822
+1462	VCAN	versican	No	Stress-induced	Induces	30622695
+7421	VDR	vitamin D receptor	No	Oncogene-induced	Inhibits	27041576
+7422	VEGFA	vascular endothelial growth factor A	No	Replicative	Inhibits	9160882
+27287	VENTX	VENT homeobox	Yes	Unclear	Induces	21325273
+7465	WEE1	WEE1 G2 checkpoint kinase	Yes	Oncogene-induced	Inhibits	28806777
+11197	WIF1	WNT inhibitory factor 1	Yes	Unclear	Induces	24853424
+55062	WIPI1	WD repeat domain, phosphoinositide interacting 1	No	Unclear	Inhibits	30352807
+51384	WNT16	Wnt family member 16	No	Replicative	Induces	19951988
+7472	WNT2	Wnt family member 2	No	Unclear	Inhibits	17643369
+7474	WNT5A	Wnt family member 5A	Yes	Oncogene-induced	Induces	21816908
+7477	WNT7B	Wnt family member 7B	Yes	Unclear	Inhibits	30971692
+7486	WRN	WRN RecQ like helicase	Yes	Oncogene-induced	Inhibits	12842909
+26118	WSB1	WD repeat and SOCS box containing 1	No	Oncogene-induced	Inhibits	27958289
+7490	WT1	WT1 transcription factor	Yes	Oncogene-induced	Inhibits	20972333
+11059	WWP1	WW domain containing E3 ubiquitin protein ligase 1	No	Replicative	Inhibits	21795702
+54739	XAF1	XIAP associated factor 1	No	Stress-induced	Induces	26802028
+331	XIAP	X-linked inhibitor of apoptosis	Yes	Stress-induced	Inhibits	22760199
+7508	XPC	XPC complex subunit, DNA damage recognition and repair factor	Yes	Stress-induced	Inhibits	20403967
+7514	XPO1	exportin 1	No	Unclear	Induces	31305018
+10413	YAP1	Yes1 associated transcriptional regulator	No	Replicative	Inhibits	23576552
+4904	YBX1	Y-box binding protein 1	No	Replicative	Inhibits	29712925
+8089	YEATS4	YEATS domain containing 4	Yes	Unclear	Inhibits	24170126
+83719	YPEL3	yippee like 3	Yes	Stress-induced	Induces	21671470
+7529	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta	Yes	Oncogene-induced	Inhibits	28116547
+7534	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta	Yes	Unclear	Inhibits	25412315
+7528	YY1	YY1 transcription factor	Yes	Unclear	Inhibits	18558095
+54819	ZCCHC10	zinc finger CCHC-type containing 10	Yes	Replicative	Induces	31404068
+51304	ZDHHC3	zinc finger DHHC-type palmitoyltransferase 3	Yes	Stress-induced	Inhibits	29055014
+6935	ZEB1	zinc finger E-box binding homeobox 1	Yes	Replicative	Inhibits	27965283
+6935	ZEB1	zinc finger E-box binding homeobox 1	Yes	Oncogene-induced	Inhibits	27965283
+7538	ZFP36	ZFP36 ring finger protein	Yes	Unclear	Induces	20157568
+7543	ZFX	zinc finger protein X-linked	Yes	Unclear	Inhibits	24228108
+64393	ZMAT3	zinc finger matrin-type 3	Yes	Unclear	Inhibits	23085987
+10269	ZMPSTE24	zinc metallopeptidase STE24	No	Replicative	Inhibits	24101728
+10771	ZMYND11	zinc finger MYND-type containing 11	No	Unclear	Inhibits	17721438
+7707	ZNF148	zinc finger protein 148	Yes	Unclear	Inhibits	19583777
+7756	ZNF207	zinc finger protein 207	Yes	Unclear	Inhibits	25918225
+7764	ZNF217	zinc finger protein 217	No	Replicative	Inhibits	11245413
+
