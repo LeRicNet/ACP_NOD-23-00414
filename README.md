@@ -46,9 +46,20 @@ This file contains a `GeneSetCollection` object that stores gene sets from the [
 
 This file contains an R `data.frame` object with 25,377 gene sets (columns) and 18,900 samples (rows). The values are the enrichment scores for each of the samples (i.e., cells/nuclei) and gene sets. The object was created using the `escape` package, using the call `ES <- enrichIt(obj = s.obj.raw, gene.sets = msigdb, method = "UCell", cores = 32, maxRank = 10000)`.
 
-`data/seurat_objects/ACP_singlecell-nucleus.rds` (\~1.6 GB)
+`data/seurat_objects/acp_spatial_annotated.rds` (\~353 MB)
 
-`data/seurat_objects/ACP_visium.rds` (\~355 MB)
+This Seurat object contains single-cell transcriptomic and spatial data from four samples of the 10X Visium platform. The samples are named slice1, slice1_sampleB, slice1_sampleC, and slice1_sampleD, and their corresponding images are stored in the object. The object has three assays: SCT, Spatial, and RNA. The SCT assay contains the normalized and scaled data for 20,322 features (genes), of which 3000 are variable across 8,366 cells (spots). The Spatial and RNA assays contain the same raw count data and the spatial coordinates for each spot. The object also has four dimensional reductions: pca, umap, harmony, and umap_harmony, which can be used to cluster and visualize the cells.
+
+The metadata for this object has the following columns:
+
+-   `sample_id`: The identifier of the sample that the spot belongs to. It can be used to group or subset the data by sample origin.
+-   `nCount_Spatial`: The number of unique molecular identifiers (UMIs) assigned to each spot in the RNA assay. It reflects the sequencing depth and quality of the sample.
+-   `nFeature_Spatial`: The number of features (genes) detected in each spot in the RNA assay. It reflects the complexity and diversity of the transcriptome of the sample.
+-   `nCount_SCT`: The number of UMIs assigned to each spot in the SCT assay. It is similar to nCount_RNA, but after applying the SCTransform normalization method.
+-   `nFeature_SCT`: The number of features detected in each spot in the SCT assay. It is similar to nFeature_RNA, but after applying the SCTransform normalization method.
+-   `seurat_clusters`: The Seurat pipeline assigns the cluster labels to each spot or tissue. They are based on the integrated data's PCA and UMAP dimensional reductions and reflect the samples' similarities and dissimilarities.
+-   `cellstates`: The cell type annotations to each spot by the SignacX algorithm. They are based on the gene expression pattern of the samples and map them to the Human Cell Landscape, a comprehensive atlas of human cell types.
+
 
 ### Code
 
