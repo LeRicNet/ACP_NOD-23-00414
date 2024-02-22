@@ -33,14 +33,13 @@ The metadata for this object has the following columns:
 -   `seurat_clusters`: The Seurat pipeline assigns the cluster labels to each cell or nucleus. They are based on the integrated data's PCA and UMAP dimensional reductions and reflect the samples' similarities and dissimilarities.
 -   `celltypes`: The cell type annotations assigned to each cell or nucleus by the SignacX algorithm. They are based on the gene expression pattern of the samples, and map them to the Human Cell Landscape, a comprehensive atlas of human cell types.
 
-
 `data/genesets/msigdb.rds`
 
 This file contains a `GeneSetCollection` object that stores gene sets from the [Molecular Signatures Database (MSigDB)](https://www.gsea-msigdb.org/gsea/msigdb). The gene sets are typically used for gene set enrichment analysis (GSEA) or other signature-based analyses. The object has the following characteristics:
 
-- It has 25,377 gene sets from the MSigDB, covering various biological processes, pathways, and phenotypes. The gene sets are named according to the MSigDB conventions, such as HALLMARK_ADIPOGENESIS, HALLMARK_ALLOGRAFT_REJECTION, etc.
-- It has 40,525 unique identifiers for the genes in the gene sets. The identifiers are gene symbols, such as ABCA1 and ABCB8.
-- The object was created using the [escape](https://www.bioconductor.org/packages/devel/bioc/manuals/escape/man/escape.pdf) package from Bioconductor, which provides an interface to access the MSigDB in R. The R call to get the gene set is: `msigdb <- getGeneSets(species = "Homo sapiens", library = c("H", paste0("C", 1:6)))`. This call retrieves the gene sets for the human species and the libraries H (hallmark gene sets) and C1-C6 (curated gene sets).
+-   It has 25,377 gene sets from the MSigDB, covering various biological processes, pathways, and phenotypes. The gene sets are named according to the MSigDB conventions, such as HALLMARK_ADIPOGENESIS, HALLMARK_ALLOGRAFT_REJECTION, etc.
+-   It has 40,525 unique identifiers for the genes in the gene sets. The identifiers are gene symbols, such as ABCA1 and ABCB8.
+-   The object was created using the [escape](https://www.bioconductor.org/packages/devel/bioc/manuals/escape/man/escape.pdf) package from Bioconductor, which provides an interface to access the MSigDB in R. The R call to get the gene set is: `msigdb <- getGeneSets(species = "Homo sapiens", library = c("H", paste0("C", 1:6)))`. This call retrieves the gene sets for the human species and the libraries H (hallmark gene sets) and C1-C6 (curated gene sets).
 
 `data/geneset_enrichment_matrices/acp_scn_msigdb_em.rds` (\~1.7 GB)
 
@@ -60,20 +59,16 @@ The metadata for this object has the following columns:
 -   `seurat_clusters`: The Seurat pipeline assigns the cluster labels to each spot or tissue. They are based on the integrated data's PCA and UMAP dimensional reductions and reflect the samples' similarities and dissimilarities.
 -   `cellstates`: The cell type annotations to each spot by the SignacX algorithm. They are based on the gene expression pattern of the samples and map them to the Human Cell Landscape, a comprehensive atlas of human cell types.
 
-
 ### Code
 
-`src/Figure1.R`
-
-`src/Figure2.R`
-
-`src/Figure3.R`
-
-`src/Figure4.R`
-
-`src/Figure5.R`
-
-`src/Figure6.R`
+<div>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure1.R'>Figure 1</button>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure2.R'>Figure 2</button>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure3.R'>Figure 3</button>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure4.R'>Figure 4</button>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure5.R'>Figure 5</button>
+<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure6.R'>Figure 6</button>
+</div>
 
 ### Exporting Figures and Postprocessing
 
