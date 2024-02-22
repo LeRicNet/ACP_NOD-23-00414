@@ -62,7 +62,7 @@ The metadata for this object has the following columns:
 ### Code
 
 <div>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure1.R'>Figure 1</button>
+<a style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure1.R'>Figure 1</a>
 <button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure2.R'>Figure 2</button>
 <button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure3.R'>Figure 3</button>
 <button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure4.R'>Figure 4</button>
