@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains computational analyses and models on Adamantinomatous Craniopharyngioma (ACP), a serious CNS tumor known for significantly affecting patient's quality of life. Current treatment only extends to surgery and radiation. Our research centers on investigating the role of senescence and the Senescence-Associated Secretory Phenotype (SASP) in ACP primary tumor tissue. For additional information, please see:
+This repository contains computational analyses and models related to the following manuscript:
 
 > Prince EW, Apps JR, Jeang J, Chee K, Medlin S, Jackson EM, Dudley R, Limbrick D, Naftel R, Johnston J, Feldstein N, Prolo LM, Ginn K, Niazi T, Smith A, Kilburn L, Chern J, Leonard J, Lam S, Hersh DS, Gonzalez-Meljem JM, Amani V, Donson AM, Mitra SS, Bandohpadhayay P, Martinez-Barbera JP, Hankinson TC. **Unraveling the Complexity of the Senescence-Associated Secretory Phenotype in Adamantinomatous Craniopharyngioma Using Multi-Modal Machine Learning Analysis.** Neuro Oncol. 2024 Feb 9:noae015. doi: 10.1093/neuonc/noae015. <a href='https://pubmed.ncbi.nlm.nih.gov/38334125/'>PMID: 38334125</a>.
 
@@ -26,16 +26,13 @@ This repository is divided into two components, Data and Code. The data in this 
 
 ### Data
 
-For more information see [here](docs/appendix.md).
-
 `data/seurat_objects/acp_scn_annotated.rds` (\~1.3 GB)
-
-`data/geneset_enrichment_matrices/acp_scn_msigdb_em.rds` (\~1.7 GB)
 
 `data/seurat_objects/acp_spatial_annotated.rds` (\~353 MB)
 
+`data/geneset_enrichment_matrices/acp_scn_msigdb_em.rds` (\~1.7 GB)
 
-
+For more information see [here](docs/appendix.md).
 
 ## Troubleshooting
 
