@@ -12,6 +12,8 @@ This repository is divided into two components, Data and Code. The data in this 
 
 ### Data
 
+For more information see [here](docs/appendix.md).
+
 `data/seurat_objects/acp_scn_annotated.rds` (\~1.3 GB)
 
 This RDS file contains a [Seurat](https://satijalab.org/seurat/) object that stores single-cell RNA-seq data from the ACP project. The data has been preprocessed, normalized, and integrated using the [Seurat pipeline](https://satijalab.org/seurat/archive/v3.2/integration). The object has the following characteristics:
