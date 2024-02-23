@@ -10,6 +10,20 @@ This repository contains computational analyses and models on Adamantinomatous C
 
 This repository is divided into two components, Data and Code. The data in this repository includes the Seurat objects for the single-nucleus, -cell, and spatial gene expression data sets. The code in this repository is organized by Figure and Figure Panel in the manuscript text.
 
+<hr/>
+
+### Code to Generate Paper Figures
+
+<p align="center"><a href="src/Figure1.R">Figure 1</a> |
+ <a href="src/Figure2.R">Figure 2</a> |
+ <a href="src/Figure3.R">Figure 3</a> |
+ <a href="src/Figure4.R">Figure 4</a> |
+ <a href="src/Figure5.R">Figure 5</a> |
+ <a href="src/Figure6.R">Figure 6</a>
+</p>
+
+<hr/>
+
 ### Data
 
 For more information see [here](docs/appendix.md).
@@ -21,15 +35,7 @@ For more information see [here](docs/appendix.md).
 `data/seurat_objects/acp_spatial_annotated.rds` (\~353 MB)
 
 
-### Code to Generate Paper Figures
 
-<p align="center"><a href="src/Figure1.R">Figure 1</a> |
- <a href="src/Figure2.R">Figure 2</a> |
- <a href="src/Figure3.R">Figure 3</a> |
- <a href="src/Figure4.R">Figure 4</a> |
- <a href="src/Figure5.R">Figure 5</a> |
- <a href="src/Figure6.R">Figure 6</a>
-</p>
 
 ## Troubleshooting
 
