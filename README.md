@@ -62,7 +62,8 @@ The metadata for this object has the following columns:
 Note: GenAge and CellAge genesets are sourced from [here](https://genomics.senescence.info/download.html)
 
 ### Code to Generate Paper Figures
-<p align="center">[Figure 1](src/Figure1.R) | [Figure 2](src/Figure2.R) |
+<p align="center"><a href="src/Figure1.R">Figure 1</a> | <a href="src/Figure2.R">Figure 2</a> |
+[Figure 1](src/Figure1.R) | [Figure 2](src/Figure2.R) |
 [Figure 3](src/Figure3.R) |
 [Figure 4](src/Figure4.R) |
 [Figure 5](src/Figure5.R) |
