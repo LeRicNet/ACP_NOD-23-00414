@@ -59,16 +59,17 @@ The metadata for this object has the following columns:
 -   `seurat_clusters`: The Seurat pipeline assigns the cluster labels to each spot or tissue. They are based on the integrated data's PCA and UMAP dimensional reductions and reflect the samples' similarities and dissimilarities.
 -   `cellstates`: The cell type annotations to each spot by the SignacX algorithm. They are based on the gene expression pattern of the samples and map them to the Human Cell Landscape, a comprehensive atlas of human cell types.
 
-### Code
+Note: GenAge and CellAge genesets are sourced from [here](https://genomics.senescence.info/download.html)
 
-<div>
-<a style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure1.R'>Figure 1</a>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure2.R'>Figure 2</button>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure3.R'>Figure 3</button>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure4.R'>Figure 4</button>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure5.R'>Figure 5</button>
-<button style="display: inline-block; text-align: center; vertical-align: middle; border: 1px solid black; border-radius: 10px; color: gray; font-weight: bold; padding: 2px 1px; margin-right: 1px; background-color: lightgray;" href='src/Figure6.R'>Figure 6</button>
-</div>
+### Code to Generate Paper Figures
+> <p align="center">[Figure 1](src/Figure1.R) |
+[Figure 2](src/Figure2.R) |
+[Figure 3](src/Figure3.R) |
+[Figure 4](src/Figure4.R) |
+[Figure 5](src/Figure5.R) |
+[Figure 6](src/Figure6.R) </p>
+
+
 
 ### Exporting Figures and Postprocessing
 
